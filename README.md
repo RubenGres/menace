@@ -11,3 +11,9 @@ I've also created a web interface to track statistics of training and simplying 
 
 Video presentation here:
 TODO
+
+Dimension of each matchboxes:
+36,5 x 53 x 11,6 mm
+
+Exterior planks: 5mm
+Interior structure planks: 3mm
