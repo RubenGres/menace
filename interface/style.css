@@ -23,6 +23,12 @@ body {
     cursor: pointer;
 }
 
+.menace_section {
+    max-height: 900px;
+    overflow-y: scroll;
+}
+
+
 #menace tr td {
     margin: 5px;
     padding: 5px;
@@ -50,20 +56,46 @@ body {
     width: auto;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 20px;
 }
+
 
 .box_info {
     background-color: rgb(228, 228, 228);
-    margin-top: 20px;
     margin-bottom: 20px;
-
-    height: 300px;
-    padding: 10px;
-    width: 560px;
-    height: 110px;
 }
 
-.menace_section {
-    max-height: 900px;
-    overflow-y: scroll;
+#next_box {
+    background-color: white;
+    width: 560px;
+    height: 110px;
+    border: 2px solid rgb(182, 182, 182);
+}
+
+#next_box tr td {
+    height: 100%;
+    width: 50%;
+    text-align: center;
+    justify-content: center;
+    padding-left: auto;
+    padding-right: auto;
+}
+
+#next_box_number {
+    font-size: 3em;
+}
+
+#next_box_hint {
+    font-size: 1.3em;
+    margin: auto;
+    display: flex; /* Enable flexbox */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100%; /* Ensure it takes up the full height of the parent td */
+}
+
+#next_box_hint tr td{
+    border: solid 1px black;
+    width: 30px;
+    height: 30px;
 }
