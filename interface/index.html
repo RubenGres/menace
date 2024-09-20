@@ -2,10 +2,54 @@
 
 <html>
     <head>
-        <script src="menace_helper.js"></script>
+        <link href="style.css" rel="stylesheet">
     </head>
-
+    
     <body>
         
+        <div class="board_section">
+            <div class="board_wrapper">
+                <table id="input_board">
+                    <tr>
+                        <td></td> <td></td> <td></td>
+                    </tr>
+                    <tr>
+                        <td></td> <td></td> <td></td>
+                    </tr>
+                    <tr>
+                        <td></td> <td></td> <td></td>
+                    </tr>
+                </table>
+            </div>
+            
+            <div class="box_info">
+                <h2>Boite suivante:</h2>
+                <div id="next_box">
+                    <table>
+                        <tr>
+                            <td id="next_box_hint">
+                                XOXO__XOXXO
+                            </td>
+                            <td>o</td>
+                            <td id="next_box_number">178</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+
+            <button onclick="reset()">Reset</button>
+        </div>
+
+        <div class="menace_section">
+            <table id="menace">
+            </table>
+        </div>
     </body>
+    
+    <script src="menace_helper.js"></script>
+    
+    <script>        
+        setup_board()
+        setup_menace()
+    </script>
 </html>
