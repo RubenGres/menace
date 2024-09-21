@@ -1,6 +1,19 @@
 let all_states_dict
 let move_color = ["#AAFFFF", "#FFFF77", "#FFFF99", "#FFFFDD"]
 
+let circle_svg = `
+    <svg class="svgicon" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="50" cy="50" r="30" stroke="#444444" stroke-width="10" fill="none" />
+    </svg>
+`
+
+let cross_svg = `
+<svg class="svgicon" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <line x1="20" y1="20" x2="80" y2="80" stroke="#444444" stroke-width="10" stroke-linecap="round" />
+  <line x1="80" y1="20" x2="20" y2="80" stroke="#444444" stroke-width="10" stroke-linecap="round" />
+</svg>
+`
+
 let current_state = ["_", "_", "_", "_", "_", "_", "_", "_", "_"]
 let current_player = "X"
 
@@ -119,7 +132,11 @@ function create_box_hint(next_box_state) {
         let cell = document.createElement("td");
         
         if(next_box_state[i] != "_") {
-            cell.textContent = next_box_state[i];
+            if(next_box_state[i] == "O") {
+                cell.innerHTML = circle_svg
+            } else {
+                cell.innerHTML = cross_svg
+            }
         }
 
         row.appendChild(cell);
@@ -132,7 +149,11 @@ function create_box_hint(next_box_state) {
 function display_board() {
     for(let i = 0; i < 9; i++) {
         if(current_state[i] != "_") {
-            document.getElementById(i).innerHTML = current_state[i]
+            if(current_state[i] == "O") {
+                document.getElementById(i).innerHTML = circle_svg
+            } else {
+                document.getElementById(i).innerHTML = cross_svg
+            }
         } else {
             document.getElementById(i).innerHTML = ""
         }
