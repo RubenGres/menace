@@ -34,6 +34,12 @@ After around 200 games, each matchboxes will have more beads than others and MEN
 - 4x hinges
 - Paper for priting the box labels
 
+The boxes can be divided in four categories, one for every turn menace plays:
+Move count 3: 183 boards
+Move count 2: 108 boards
+Move count 0: 1 boards
+Move count 1: 12 boards
+
 ## Dimensions
 
 The main box is (311 x 472 x 46) mm, it contains vertical and horizontals planks to provide structure and hold the 304 mathboxes in place. There is two boxes between each vertical plank and five between each horizontal one. The whole structure is held together using box joints.
@@ -45,13 +51,13 @@ We also laser cut a tic tac toe board and pieces to let the participants play th
 ### Box (5mm planks)
 1x backpane: (311 x 472) mm 
  
-    width:  
+    exterior width:  
         36.5mm * 8 // mathbox width  
         + 3mm * 3 // vertical inner planks  
         + 5mm * 2 // exterior planks  
         = 311mm  
 
-    height:  
+    exterior height:  
         11.6mm * 38 // mathbox height  
         + 3mm * 7 // horizontal inner planks  
         + 5mm * 2 // exterior planks  
@@ -63,7 +69,7 @@ We also laser cut a tic tac toe board and pieces to let the participants play th
 
 ### Inner structure (3mm planks)
 
-3x vertical planks: 301mm x 3mm
+3x vertical planks: 301mm x 3mm  
 7x horizontal plans: 461.8mm x 3mm
 
 ## Web interface
