@@ -12,6 +12,7 @@
 <line x1="25.0" y1="23.0" x2="31.0" y2="17.0" stroke="black" stroke-width="2"/>
 <circle cx="40.0" cy="20.0" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="28.0" cy="32.0" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="68.0" cy="20.0" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="29.0" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">122</text>
 <rect x="0.0" y="0.0" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="2.0" x2="158.06299212598427" y2="38.0" stroke="black" />
@@ -27,6 +28,7 @@
 <line x1="149.06299212598427" y1="29.0" x2="155.06299212598427" y2="35.0" stroke="black" stroke-width="2"/>
 <line x1="149.06299212598427" y1="35.0" x2="155.06299212598427" y2="29.0" stroke="black" stroke-width="2"/>
 <circle cx="176.06299212598427" cy="32.0" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="20.0" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="29.0" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">123</text>
 <rect x="136.06299212598427" y="0.0" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="2.0" x2="294.12598425196853" y2="38.0" stroke="black" />
@@ -42,6 +44,7 @@
 <circle cx="288.12598425196853" cy="32.0" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="309.12598425196853" y1="29.0" x2="315.12598425196853" y2="35.0" stroke="black" stroke-width="2"/>
 <line x1="309.12598425196853" y1="35.0" x2="315.12598425196853" y2="29.0" stroke="black" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="20.0" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="29.0" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">124</text>
 <rect x="272.12598425196853" y="0.0" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="2.0" x2="430.1889763779528" y2="38.0" stroke="black" />
@@ -57,6 +60,7 @@
 <line x1="433.1889763779528" y1="29.0" x2="439.1889763779528" y2="35.0" stroke="black" stroke-width="2"/>
 <line x1="433.1889763779528" y1="35.0" x2="439.1889763779528" y2="29.0" stroke="black" stroke-width="2"/>
 <circle cx="448.1889763779528" cy="32.0" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="20.0" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="29.0" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">125</text>
 <rect x="408.1889763779528" y="0.0" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="2.0" x2="566.2519685039371" y2="38.0" stroke="black" />
@@ -72,6 +76,7 @@
 <circle cx="560.2519685039371" cy="32.0" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="581.2519685039371" y1="29.0" x2="587.2519685039371" y2="35.0" stroke="black" stroke-width="2"/>
 <line x1="581.2519685039371" y1="35.0" x2="587.2519685039371" y2="29.0" stroke="black" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="20.0" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="29.0" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">126</text>
 <rect x="544.2519685039371" y="0.0" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="43.5748031496063" x2="22.0" y2="79.57480314960631" stroke="black" />
@@ -87,6 +92,7 @@
 <line x1="25.0" y1="64.57480314960631" x2="31.0" y2="58.5748031496063" stroke="black" stroke-width="2"/>
 <circle cx="16.0" cy="73.57480314960631" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="40.0" cy="73.57480314960631" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="68.0" cy="61.5748031496063" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="70.57480314960631" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">127</text>
 <rect x="0.0" y="41.5748031496063" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="43.5748031496063" x2="158.06299212598427" y2="79.57480314960631" stroke="black" />
@@ -102,6 +108,7 @@
 <line x1="173.06299212598427" y1="64.57480314960631" x2="179.06299212598427" y2="58.5748031496063" stroke="black" stroke-width="2"/>
 <line x1="161.06299212598427" y1="70.57480314960631" x2="167.06299212598427" y2="76.57480314960631" stroke="black" stroke-width="2"/>
 <line x1="161.06299212598427" y1="76.57480314960631" x2="167.06299212598427" y2="70.57480314960631" stroke="black" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="61.5748031496063" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="70.57480314960631" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">128</text>
 <rect x="136.06299212598427" y="41.5748031496063" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="43.5748031496063" x2="294.12598425196853" y2="79.57480314960631" stroke="black" />
@@ -117,6 +124,7 @@
 <line x1="297.12598425196853" y1="58.5748031496063" x2="303.12598425196853" y2="64.57480314960631" stroke="black" stroke-width="2"/>
 <line x1="297.12598425196853" y1="64.57480314960631" x2="303.12598425196853" y2="58.5748031496063" stroke="black" stroke-width="2"/>
 <circle cx="300.12598425196853" cy="73.57480314960631" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="61.5748031496063" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="70.57480314960631" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">129</text>
 <rect x="272.12598425196853" y="41.5748031496063" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="43.5748031496063" x2="430.1889763779528" y2="79.57480314960631" stroke="black" />
@@ -132,6 +140,7 @@
 <circle cx="448.1889763779528" cy="61.5748031496063" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="436.1889763779528" cy="73.57480314960631" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="448.1889763779528" cy="73.57480314960631" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="61.5748031496063" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="70.57480314960631" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">130</text>
 <rect x="408.1889763779528" y="41.5748031496063" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="43.5748031496063" x2="566.2519685039371" y2="79.57480314960631" stroke="black" />
@@ -147,6 +156,7 @@
 <circle cx="572.2519685039371" cy="73.57480314960631" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="581.2519685039371" y1="70.57480314960631" x2="587.2519685039371" y2="76.57480314960631" stroke="black" stroke-width="2"/>
 <line x1="581.2519685039371" y1="76.57480314960631" x2="587.2519685039371" y2="70.57480314960631" stroke="black" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="61.5748031496063" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="70.57480314960631" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">131</text>
 <rect x="544.2519685039371" y="41.5748031496063" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="85.1496062992126" x2="22.0" y2="121.1496062992126" stroke="black" />
@@ -162,6 +172,7 @@
 <line x1="13.0" y1="112.1496062992126" x2="19.0" y2="118.1496062992126" stroke="black" stroke-width="2"/>
 <line x1="13.0" y1="118.1496062992126" x2="19.0" y2="112.1496062992126" stroke="black" stroke-width="2"/>
 <circle cx="40.0" cy="115.1496062992126" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="68.0" cy="103.1496062992126" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="112.1496062992126" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">132</text>
 <rect x="0.0" y="83.1496062992126" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="85.1496062992126" x2="158.06299212598427" y2="121.1496062992126" stroke="black" />
@@ -177,6 +188,7 @@
 <circle cx="164.06299212598427" cy="103.1496062992126" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="173.06299212598427" y1="100.1496062992126" x2="179.06299212598427" y2="106.1496062992126" stroke="black" stroke-width="2"/>
 <line x1="173.06299212598427" y1="106.1496062992126" x2="179.06299212598427" y2="100.1496062992126" stroke="black" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="103.1496062992126" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="112.1496062992126" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">133</text>
 <rect x="136.06299212598427" y="83.1496062992126" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="85.1496062992126" x2="294.12598425196853" y2="121.1496062992126" stroke="black" />
@@ -192,6 +204,7 @@
 <line x1="297.12598425196853" y1="112.1496062992126" x2="303.12598425196853" y2="118.1496062992126" stroke="black" stroke-width="2"/>
 <line x1="297.12598425196853" y1="118.1496062992126" x2="303.12598425196853" y2="112.1496062992126" stroke="black" stroke-width="2"/>
 <circle cx="312.12598425196853" cy="115.1496062992126" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="103.1496062992126" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="112.1496062992126" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">134</text>
 <rect x="272.12598425196853" y="83.1496062992126" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="85.1496062992126" x2="430.1889763779528" y2="121.1496062992126" stroke="black" />
@@ -207,6 +220,7 @@
 <line x1="433.1889763779528" y1="118.1496062992126" x2="439.1889763779528" y2="112.1496062992126" stroke="black" stroke-width="2"/>
 <line x1="445.1889763779528" y1="112.1496062992126" x2="451.1889763779528" y2="118.1496062992126" stroke="black" stroke-width="2"/>
 <line x1="445.1889763779528" y1="118.1496062992126" x2="451.1889763779528" y2="112.1496062992126" stroke="black" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="103.1496062992126" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="112.1496062992126" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">135</text>
 <rect x="408.1889763779528" y="83.1496062992126" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="85.1496062992126" x2="566.2519685039371" y2="121.1496062992126" stroke="black" />
@@ -222,6 +236,7 @@
 <line x1="581.2519685039371" y1="100.1496062992126" x2="587.2519685039371" y2="106.1496062992126" stroke="black" stroke-width="2"/>
 <line x1="581.2519685039371" y1="106.1496062992126" x2="587.2519685039371" y2="100.1496062992126" stroke="black" stroke-width="2"/>
 <circle cx="572.2519685039371" cy="115.1496062992126" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="103.1496062992126" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="112.1496062992126" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">136</text>
 <rect x="544.2519685039371" y="83.1496062992126" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="126.7244094488189" x2="22.0" y2="162.7244094488189" stroke="black" />
@@ -237,6 +252,7 @@
 <circle cx="16.0" cy="156.7244094488189" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="25.0" y1="153.7244094488189" x2="31.0" y2="159.7244094488189" stroke="black" stroke-width="2"/>
 <line x1="25.0" y1="159.7244094488189" x2="31.0" y2="153.7244094488189" stroke="black" stroke-width="2"/>
+<circle cx="68.0" cy="144.7244094488189" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="153.7244094488189" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">137</text>
 <rect x="0.0" y="124.7244094488189" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="126.7244094488189" x2="158.06299212598427" y2="162.7244094488189" stroke="black" />
@@ -252,6 +268,7 @@
 <line x1="161.06299212598427" y1="153.7244094488189" x2="167.06299212598427" y2="159.7244094488189" stroke="black" stroke-width="2"/>
 <line x1="161.06299212598427" y1="159.7244094488189" x2="167.06299212598427" y2="153.7244094488189" stroke="black" stroke-width="2"/>
 <circle cx="176.06299212598427" cy="156.7244094488189" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="144.7244094488189" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="153.7244094488189" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">138</text>
 <rect x="136.06299212598427" y="124.7244094488189" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="126.7244094488189" x2="294.12598425196853" y2="162.7244094488189" stroke="black" />
@@ -267,6 +284,7 @@
 <circle cx="312.12598425196853" cy="144.7244094488189" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="297.12598425196853" y1="153.7244094488189" x2="303.12598425196853" y2="159.7244094488189" stroke="black" stroke-width="2"/>
 <line x1="297.12598425196853" y1="159.7244094488189" x2="303.12598425196853" y2="153.7244094488189" stroke="black" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="144.7244094488189" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="153.7244094488189" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">139</text>
 <rect x="272.12598425196853" y="124.7244094488189" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="126.7244094488189" x2="430.1889763779528" y2="162.7244094488189" stroke="black" />
@@ -282,6 +300,7 @@
 <circle cx="448.1889763779528" cy="144.7244094488189" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="445.1889763779528" y1="153.7244094488189" x2="451.1889763779528" y2="159.7244094488189" stroke="black" stroke-width="2"/>
 <line x1="445.1889763779528" y1="159.7244094488189" x2="451.1889763779528" y2="153.7244094488189" stroke="black" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="144.7244094488189" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="153.7244094488189" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">140</text>
 <rect x="408.1889763779528" y="124.7244094488189" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="126.7244094488189" x2="566.2519685039371" y2="162.7244094488189" stroke="black" />
@@ -297,6 +316,7 @@
 <line x1="581.2519685039371" y1="147.7244094488189" x2="587.2519685039371" y2="141.7244094488189" stroke="black" stroke-width="2"/>
 <circle cx="572.2519685039371" cy="156.7244094488189" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="584.2519685039371" cy="156.7244094488189" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="144.7244094488189" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="153.7244094488189" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">141</text>
 <rect x="544.2519685039371" y="124.7244094488189" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="168.2992125984252" x2="22.0" y2="204.2992125984252" stroke="black" />
@@ -312,6 +332,7 @@
 <line x1="25.0" y1="195.2992125984252" x2="31.0" y2="201.2992125984252" stroke="black" stroke-width="2"/>
 <line x1="25.0" y1="201.2992125984252" x2="31.0" y2="195.2992125984252" stroke="black" stroke-width="2"/>
 <circle cx="40.0" cy="198.2992125984252" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="68.0" cy="186.2992125984252" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="195.2992125984252" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">142</text>
 <rect x="0.0" y="166.2992125984252" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="168.2992125984252" x2="158.06299212598427" y2="204.2992125984252" stroke="black" />
@@ -327,6 +348,7 @@
 <line x1="161.06299212598427" y1="201.2992125984252" x2="167.06299212598427" y2="195.2992125984252" stroke="black" stroke-width="2"/>
 <line x1="173.06299212598427" y1="195.2992125984252" x2="179.06299212598427" y2="201.2992125984252" stroke="black" stroke-width="2"/>
 <line x1="173.06299212598427" y1="201.2992125984252" x2="179.06299212598427" y2="195.2992125984252" stroke="black" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="186.2992125984252" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="195.2992125984252" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">143</text>
 <rect x="136.06299212598427" y="166.2992125984252" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="168.2992125984252" x2="294.12598425196853" y2="204.2992125984252" stroke="black" />
@@ -342,6 +364,7 @@
 <circle cx="288.12598425196853" cy="198.2992125984252" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="297.12598425196853" y1="195.2992125984252" x2="303.12598425196853" y2="201.2992125984252" stroke="black" stroke-width="2"/>
 <line x1="297.12598425196853" y1="201.2992125984252" x2="303.12598425196853" y2="195.2992125984252" stroke="black" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="186.2992125984252" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="195.2992125984252" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">144</text>
 <rect x="272.12598425196853" y="166.2992125984252" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="168.2992125984252" x2="430.1889763779528" y2="204.2992125984252" stroke="black" />
@@ -357,6 +380,7 @@
 <line x1="421.1889763779528" y1="201.2992125984252" x2="427.1889763779528" y2="195.2992125984252" stroke="black" stroke-width="2"/>
 <line x1="445.1889763779528" y1="195.2992125984252" x2="451.1889763779528" y2="201.2992125984252" stroke="black" stroke-width="2"/>
 <line x1="445.1889763779528" y1="201.2992125984252" x2="451.1889763779528" y2="195.2992125984252" stroke="black" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="186.2992125984252" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="195.2992125984252" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">145</text>
 <rect x="408.1889763779528" y="166.2992125984252" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="168.2992125984252" x2="566.2519685039371" y2="204.2992125984252" stroke="black" />
@@ -372,6 +396,7 @@
 <line x1="569.2519685039371" y1="183.2992125984252" x2="575.2519685039371" y2="189.2992125984252" stroke="black" stroke-width="2"/>
 <line x1="569.2519685039371" y1="189.2992125984252" x2="575.2519685039371" y2="183.2992125984252" stroke="black" stroke-width="2"/>
 <circle cx="572.2519685039371" cy="198.2992125984252" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="186.2992125984252" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="195.2992125984252" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">146</text>
 <rect x="544.2519685039371" y="166.2992125984252" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="209.87401574803152" x2="22.0" y2="245.87401574803152" stroke="black" />
@@ -387,6 +412,7 @@
 <circle cx="28.0" cy="239.87401574803152" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="37.0" y1="236.87401574803152" x2="43.0" y2="242.87401574803152" stroke="black" stroke-width="2"/>
 <line x1="37.0" y1="242.87401574803152" x2="43.0" y2="236.87401574803152" stroke="black" stroke-width="2"/>
+<circle cx="68.0" cy="227.87401574803152" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="236.87401574803152" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">147</text>
 <rect x="0.0" y="207.87401574803152" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="209.87401574803152" x2="158.06299212598427" y2="245.87401574803152" stroke="black" />
@@ -402,6 +428,7 @@
 <line x1="173.06299212598427" y1="230.87401574803152" x2="179.06299212598427" y2="224.87401574803152" stroke="black" stroke-width="2"/>
 <line x1="173.06299212598427" y1="236.87401574803152" x2="179.06299212598427" y2="242.87401574803152" stroke="black" stroke-width="2"/>
 <line x1="173.06299212598427" y1="242.87401574803152" x2="179.06299212598427" y2="236.87401574803152" stroke="black" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="227.87401574803152" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="236.87401574803152" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">148</text>
 <rect x="136.06299212598427" y="207.87401574803152" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="209.87401574803152" x2="294.12598425196853" y2="245.87401574803152" stroke="black" />
@@ -417,6 +444,7 @@
 <line x1="285.12598425196853" y1="236.87401574803152" x2="291.12598425196853" y2="242.87401574803152" stroke="black" stroke-width="2"/>
 <line x1="285.12598425196853" y1="242.87401574803152" x2="291.12598425196853" y2="236.87401574803152" stroke="black" stroke-width="2"/>
 <circle cx="312.12598425196853" cy="239.87401574803152" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="227.87401574803152" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="236.87401574803152" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">149</text>
 <rect x="272.12598425196853" y="207.87401574803152" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="209.87401574803152" x2="430.1889763779528" y2="245.87401574803152" stroke="black" />
@@ -432,6 +460,7 @@
 <circle cx="448.1889763779528" cy="227.87401574803152" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="433.1889763779528" y1="236.87401574803152" x2="439.1889763779528" y2="242.87401574803152" stroke="black" stroke-width="2"/>
 <line x1="433.1889763779528" y1="242.87401574803152" x2="439.1889763779528" y2="236.87401574803152" stroke="black" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="227.87401574803152" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="236.87401574803152" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">150</text>
 <rect x="408.1889763779528" y="207.87401574803152" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="209.87401574803152" x2="566.2519685039371" y2="245.87401574803152" stroke="black" />
@@ -447,6 +476,7 @@
 <line x1="581.2519685039371" y1="224.87401574803152" x2="587.2519685039371" y2="230.87401574803152" stroke="black" stroke-width="2"/>
 <line x1="581.2519685039371" y1="230.87401574803152" x2="587.2519685039371" y2="224.87401574803152" stroke="black" stroke-width="2"/>
 <circle cx="572.2519685039371" cy="239.87401574803152" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="227.87401574803152" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="236.87401574803152" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">151</text>
 <rect x="544.2519685039371" y="207.87401574803152" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="251.4488188976378" x2="22.0" y2="287.4488188976378" stroke="black" />
@@ -462,6 +492,7 @@
 <circle cx="16.0" cy="281.4488188976378" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="25.0" y1="278.4488188976378" x2="31.0" y2="284.4488188976378" stroke="black" stroke-width="2"/>
 <line x1="25.0" y1="284.4488188976378" x2="31.0" y2="278.4488188976378" stroke="black" stroke-width="2"/>
+<circle cx="68.0" cy="269.4488188976378" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="278.4488188976378" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">152</text>
 <rect x="0.0" y="249.4488188976378" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="251.4488188976378" x2="158.06299212598427" y2="287.4488188976378" stroke="black" />
@@ -477,6 +508,7 @@
 <circle cx="176.06299212598427" cy="269.4488188976378" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="161.06299212598427" y1="278.4488188976378" x2="167.06299212598427" y2="284.4488188976378" stroke="black" stroke-width="2"/>
 <line x1="161.06299212598427" y1="284.4488188976378" x2="167.06299212598427" y2="278.4488188976378" stroke="black" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="269.4488188976378" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="278.4488188976378" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">153</text>
 <rect x="136.06299212598427" y="249.4488188976378" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="251.4488188976378" x2="294.12598425196853" y2="287.4488188976378" stroke="black" />
@@ -492,6 +524,7 @@
 <circle cx="300.12598425196853" cy="269.4488188976378" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="309.12598425196853" y1="266.4488188976378" x2="315.12598425196853" y2="272.4488188976378" stroke="black" stroke-width="2"/>
 <line x1="309.12598425196853" y1="272.4488188976378" x2="315.12598425196853" y2="266.4488188976378" stroke="black" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="269.4488188976378" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="278.4488188976378" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">154</text>
 <rect x="272.12598425196853" y="249.4488188976378" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="251.4488188976378" x2="430.1889763779528" y2="287.4488188976378" stroke="black" />
@@ -507,6 +540,7 @@
 <line x1="421.1889763779528" y1="284.4488188976378" x2="427.1889763779528" y2="278.4488188976378" stroke="black" stroke-width="2"/>
 <line x1="433.1889763779528" y1="278.4488188976378" x2="439.1889763779528" y2="284.4488188976378" stroke="black" stroke-width="2"/>
 <line x1="433.1889763779528" y1="284.4488188976378" x2="439.1889763779528" y2="278.4488188976378" stroke="black" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="269.4488188976378" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="278.4488188976378" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">155</text>
 <rect x="408.1889763779528" y="249.4488188976378" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="251.4488188976378" x2="566.2519685039371" y2="287.4488188976378" stroke="black" />
@@ -522,6 +556,7 @@
 <line x1="581.2519685039371" y1="272.4488188976378" x2="587.2519685039371" y2="266.4488188976378" stroke="black" stroke-width="2"/>
 <circle cx="560.2519685039371" cy="281.4488188976378" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="572.2519685039371" cy="281.4488188976378" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="269.4488188976378" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="278.4488188976378" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">156</text>
 <rect x="544.2519685039371" y="249.4488188976378" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="293.02362204724415" x2="22.0" y2="329.02362204724415" stroke="black" />
@@ -537,6 +572,7 @@
 <line x1="25.0" y1="314.02362204724415" x2="31.0" y2="308.02362204724415" stroke="black" stroke-width="2"/>
 <circle cx="16.0" cy="323.02362204724415" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="40.0" cy="323.02362204724415" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="68.0" cy="311.02362204724415" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="320.02362204724415" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">157</text>
 <rect x="0.0" y="291.02362204724415" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="293.02362204724415" x2="158.06299212598427" y2="329.02362204724415" stroke="black" />
@@ -552,6 +588,7 @@
 <line x1="161.06299212598427" y1="314.02362204724415" x2="167.06299212598427" y2="308.02362204724415" stroke="black" stroke-width="2"/>
 <circle cx="164.06299212598427" cy="323.02362204724415" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="176.06299212598427" cy="323.02362204724415" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="311.02362204724415" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="320.02362204724415" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">158</text>
 <rect x="136.06299212598427" y="291.02362204724415" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="293.02362204724415" x2="294.12598425196853" y2="329.02362204724415" stroke="black" />
@@ -567,6 +604,7 @@
 <line x1="297.12598425196853" y1="308.02362204724415" x2="303.12598425196853" y2="314.02362204724415" stroke="black" stroke-width="2"/>
 <line x1="297.12598425196853" y1="314.02362204724415" x2="303.12598425196853" y2="308.02362204724415" stroke="black" stroke-width="2"/>
 <circle cx="312.12598425196853" cy="311.02362204724415" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="311.02362204724415" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="320.02362204724415" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">159</text>
 <rect x="272.12598425196853" y="291.02362204724415" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="293.02362204724415" x2="430.1889763779528" y2="329.02362204724415" stroke="black" />
@@ -582,6 +620,7 @@
 <circle cx="424.1889763779528" cy="323.02362204724415" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="433.1889763779528" y1="320.02362204724415" x2="439.1889763779528" y2="326.02362204724415" stroke="black" stroke-width="2"/>
 <line x1="433.1889763779528" y1="326.02362204724415" x2="439.1889763779528" y2="320.02362204724415" stroke="black" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="311.02362204724415" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="320.02362204724415" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">160</text>
 <rect x="408.1889763779528" y="291.02362204724415" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="293.02362204724415" x2="566.2519685039371" y2="329.02362204724415" stroke="black" />
@@ -597,6 +636,7 @@
 <circle cx="572.2519685039371" cy="323.02362204724415" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="581.2519685039371" y1="320.02362204724415" x2="587.2519685039371" y2="326.02362204724415" stroke="black" stroke-width="2"/>
 <line x1="581.2519685039371" y1="326.02362204724415" x2="587.2519685039371" y2="320.02362204724415" stroke="black" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="311.02362204724415" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="320.02362204724415" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">161</text>
 <rect x="544.2519685039371" y="291.02362204724415" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="334.5984251968504" x2="22.0" y2="370.5984251968504" stroke="black" />
@@ -612,6 +652,7 @@
 <line x1="25.0" y1="361.5984251968504" x2="31.0" y2="367.5984251968504" stroke="black" stroke-width="2"/>
 <line x1="25.0" y1="367.5984251968504" x2="31.0" y2="361.5984251968504" stroke="black" stroke-width="2"/>
 <circle cx="40.0" cy="364.5984251968504" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="68.0" cy="352.5984251968504" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="361.5984251968504" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">162</text>
 <rect x="0.0" y="332.5984251968504" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="334.5984251968504" x2="158.06299212598427" y2="370.5984251968504" stroke="black" />
@@ -627,6 +668,7 @@
 <line x1="161.06299212598427" y1="361.5984251968504" x2="167.06299212598427" y2="367.5984251968504" stroke="black" stroke-width="2"/>
 <line x1="161.06299212598427" y1="367.5984251968504" x2="167.06299212598427" y2="361.5984251968504" stroke="black" stroke-width="2"/>
 <circle cx="176.06299212598427" cy="364.5984251968504" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="352.5984251968504" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="361.5984251968504" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">163</text>
 <rect x="136.06299212598427" y="332.5984251968504" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="334.5984251968504" x2="294.12598425196853" y2="370.5984251968504" stroke="black" />
@@ -642,6 +684,7 @@
 <line x1="309.12598425196853" y1="349.5984251968504" x2="315.12598425196853" y2="355.5984251968504" stroke="black" stroke-width="2"/>
 <line x1="309.12598425196853" y1="355.5984251968504" x2="315.12598425196853" y2="349.5984251968504" stroke="black" stroke-width="2"/>
 <circle cx="312.12598425196853" cy="364.5984251968504" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="352.5984251968504" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="361.5984251968504" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">164</text>
 <rect x="272.12598425196853" y="332.5984251968504" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="334.5984251968504" x2="430.1889763779528" y2="370.5984251968504" stroke="black" />
@@ -657,6 +700,7 @@
 <line x1="445.1889763779528" y1="355.5984251968504" x2="451.1889763779528" y2="349.5984251968504" stroke="black" stroke-width="2"/>
 <circle cx="436.1889763779528" cy="364.5984251968504" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="448.1889763779528" cy="364.5984251968504" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="352.5984251968504" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="361.5984251968504" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">165</text>
 <rect x="408.1889763779528" y="332.5984251968504" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="334.5984251968504" x2="566.2519685039371" y2="370.5984251968504" stroke="black" />
@@ -672,6 +716,7 @@
 <circle cx="560.2519685039371" cy="364.5984251968504" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="569.2519685039371" y1="361.5984251968504" x2="575.2519685039371" y2="367.5984251968504" stroke="black" stroke-width="2"/>
 <line x1="569.2519685039371" y1="367.5984251968504" x2="575.2519685039371" y2="361.5984251968504" stroke="black" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="352.5984251968504" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="361.5984251968504" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">166</text>
 <rect x="544.2519685039371" y="332.5984251968504" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="376.1732283464567" x2="22.0" y2="412.1732283464567" stroke="black" />
@@ -687,6 +732,7 @@
 <line x1="13.0" y1="397.1732283464567" x2="19.0" y2="391.1732283464567" stroke="black" stroke-width="2"/>
 <circle cx="28.0" cy="394.1732283464567" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="40.0" cy="394.1732283464567" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="68.0" cy="394.1732283464567" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="403.1732283464567" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">167</text>
 <rect x="0.0" y="374.1732283464567" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="376.1732283464567" x2="158.06299212598427" y2="412.1732283464567" stroke="black" />
@@ -702,6 +748,7 @@
 <line x1="161.06299212598427" y1="403.1732283464567" x2="167.06299212598427" y2="409.1732283464567" stroke="black" stroke-width="2"/>
 <line x1="161.06299212598427" y1="409.1732283464567" x2="167.06299212598427" y2="403.1732283464567" stroke="black" stroke-width="2"/>
 <circle cx="176.06299212598427" cy="406.1732283464567" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="394.1732283464567" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="403.1732283464567" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">168</text>
 <rect x="136.06299212598427" y="374.1732283464567" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="376.1732283464567" x2="294.12598425196853" y2="412.1732283464567" stroke="black" />
@@ -717,6 +764,7 @@
 <line x1="309.12598425196853" y1="391.1732283464567" x2="315.12598425196853" y2="397.1732283464567" stroke="black" stroke-width="2"/>
 <line x1="309.12598425196853" y1="397.1732283464567" x2="315.12598425196853" y2="391.1732283464567" stroke="black" stroke-width="2"/>
 <circle cx="312.12598425196853" cy="406.1732283464567" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="394.1732283464567" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="403.1732283464567" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">169</text>
 <rect x="272.12598425196853" y="374.1732283464567" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="376.1732283464567" x2="430.1889763779528" y2="412.1732283464567" stroke="black" />
@@ -732,6 +780,7 @@
 <line x1="445.1889763779528" y1="397.1732283464567" x2="451.1889763779528" y2="391.1732283464567" stroke="black" stroke-width="2"/>
 <circle cx="436.1889763779528" cy="406.1732283464567" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="448.1889763779528" cy="406.1732283464567" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="394.1732283464567" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="403.1732283464567" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">170</text>
 <rect x="408.1889763779528" y="374.1732283464567" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="376.1732283464567" x2="566.2519685039371" y2="412.1732283464567" stroke="black" />
@@ -747,6 +796,7 @@
 <line x1="581.2519685039371" y1="397.1732283464567" x2="587.2519685039371" y2="391.1732283464567" stroke="black" stroke-width="2"/>
 <line x1="569.2519685039371" y1="403.1732283464567" x2="575.2519685039371" y2="409.1732283464567" stroke="black" stroke-width="2"/>
 <line x1="569.2519685039371" y1="409.1732283464567" x2="575.2519685039371" y2="403.1732283464567" stroke="black" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="394.1732283464567" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="403.1732283464567" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">171</text>
 <rect x="544.2519685039371" y="374.1732283464567" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="417.74803149606305" x2="22.0" y2="453.74803149606305" stroke="black" />
@@ -762,6 +812,7 @@
 <line x1="25.0" y1="432.74803149606305" x2="31.0" y2="438.74803149606305" stroke="black" stroke-width="2"/>
 <line x1="25.0" y1="438.74803149606305" x2="31.0" y2="432.74803149606305" stroke="black" stroke-width="2"/>
 <circle cx="16.0" cy="447.74803149606305" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="68.0" cy="435.74803149606305" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="444.74803149606305" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">172</text>
 <rect x="0.0" y="415.74803149606305" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="417.74803149606305" x2="158.06299212598427" y2="453.74803149606305" stroke="black" />
@@ -777,6 +828,7 @@
 <line x1="149.06299212598427" y1="438.74803149606305" x2="155.06299212598427" y2="432.74803149606305" stroke="black" stroke-width="2"/>
 <circle cx="176.06299212598427" cy="435.74803149606305" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="164.06299212598427" cy="447.74803149606305" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="435.74803149606305" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="444.74803149606305" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">173</text>
 <rect x="136.06299212598427" y="415.74803149606305" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="417.74803149606305" x2="294.12598425196853" y2="453.74803149606305" stroke="black" />
@@ -792,6 +844,7 @@
 <circle cx="288.12598425196853" cy="447.74803149606305" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="297.12598425196853" y1="444.74803149606305" x2="303.12598425196853" y2="450.74803149606305" stroke="black" stroke-width="2"/>
 <line x1="297.12598425196853" y1="450.74803149606305" x2="303.12598425196853" y2="444.74803149606305" stroke="black" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="435.74803149606305" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="444.74803149606305" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">174</text>
 <rect x="272.12598425196853" y="415.74803149606305" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="417.74803149606305" x2="430.1889763779528" y2="453.74803149606305" stroke="black" />
@@ -807,6 +860,7 @@
 <line x1="445.1889763779528" y1="432.74803149606305" x2="451.1889763779528" y2="438.74803149606305" stroke="black" stroke-width="2"/>
 <line x1="445.1889763779528" y1="438.74803149606305" x2="451.1889763779528" y2="432.74803149606305" stroke="black" stroke-width="2"/>
 <circle cx="436.1889763779528" cy="447.74803149606305" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="435.74803149606305" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="444.74803149606305" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">175</text>
 <rect x="408.1889763779528" y="415.74803149606305" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="417.74803149606305" x2="566.2519685039371" y2="453.74803149606305" stroke="black" />
@@ -822,6 +876,7 @@
 <line x1="569.2519685039371" y1="432.74803149606305" x2="575.2519685039371" y2="438.74803149606305" stroke="black" stroke-width="2"/>
 <line x1="569.2519685039371" y1="438.74803149606305" x2="575.2519685039371" y2="432.74803149606305" stroke="black" stroke-width="2"/>
 <circle cx="584.2519685039371" cy="447.74803149606305" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="435.74803149606305" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="444.74803149606305" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">176</text>
 <rect x="544.2519685039371" y="415.74803149606305" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="459.32283464566933" x2="22.0" y2="495.32283464566933" stroke="black" />
@@ -837,6 +892,7 @@
 <circle cx="16.0" cy="489.32283464566933" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="37.0" y1="486.32283464566933" x2="43.0" y2="492.32283464566933" stroke="black" stroke-width="2"/>
 <line x1="37.0" y1="492.32283464566933" x2="43.0" y2="486.32283464566933" stroke="black" stroke-width="2"/>
+<circle cx="68.0" cy="477.32283464566933" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="486.32283464566933" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">177</text>
 <rect x="0.0" y="457.32283464566933" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="459.32283464566933" x2="158.06299212598427" y2="495.32283464566933" stroke="black" />
@@ -852,6 +908,7 @@
 <line x1="173.06299212598427" y1="480.32283464566933" x2="179.06299212598427" y2="474.32283464566933" stroke="black" stroke-width="2"/>
 <circle cx="152.06299212598427" cy="489.32283464566933" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="176.06299212598427" cy="489.32283464566933" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="477.32283464566933" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="486.32283464566933" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">178</text>
 <rect x="136.06299212598427" y="457.32283464566933" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="459.32283464566933" x2="294.12598425196853" y2="495.32283464566933" stroke="black" />
@@ -867,6 +924,7 @@
 <line x1="297.12598425196853" y1="480.32283464566933" x2="303.12598425196853" y2="474.32283464566933" stroke="black" stroke-width="2"/>
 <circle cx="300.12598425196853" cy="489.32283464566933" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="312.12598425196853" cy="489.32283464566933" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="477.32283464566933" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="486.32283464566933" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">179</text>
 <rect x="272.12598425196853" y="457.32283464566933" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="459.32283464566933" x2="430.1889763779528" y2="495.32283464566933" stroke="black" />
@@ -882,6 +940,7 @@
 <circle cx="448.1889763779528" cy="477.32283464566933" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="433.1889763779528" y1="486.32283464566933" x2="439.1889763779528" y2="492.32283464566933" stroke="black" stroke-width="2"/>
 <line x1="433.1889763779528" y1="492.32283464566933" x2="439.1889763779528" y2="486.32283464566933" stroke="black" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="477.32283464566933" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="486.32283464566933" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">180</text>
 <rect x="408.1889763779528" y="457.32283464566933" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="459.32283464566933" x2="566.2519685039371" y2="495.32283464566933" stroke="black" />
@@ -897,6 +956,7 @@
 <line x1="581.2519685039371" y1="480.32283464566933" x2="587.2519685039371" y2="474.32283464566933" stroke="black" stroke-width="2"/>
 <line x1="581.2519685039371" y1="486.32283464566933" x2="587.2519685039371" y2="492.32283464566933" stroke="black" stroke-width="2"/>
 <line x1="581.2519685039371" y1="492.32283464566933" x2="587.2519685039371" y2="486.32283464566933" stroke="black" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="477.32283464566933" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="486.32283464566933" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">181</text>
 <rect x="544.2519685039371" y="457.32283464566933" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="500.8976377952756" x2="22.0" y2="536.8976377952756" stroke="black" />
@@ -912,6 +972,7 @@
 <circle cx="40.0" cy="518.8976377952756" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="28.0" cy="530.8976377952756" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="40.0" cy="530.8976377952756" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="68.0" cy="518.8976377952756" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="527.8976377952756" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">182</text>
 <rect x="0.0" y="498.8976377952756" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="500.8976377952756" x2="158.06299212598427" y2="536.8976377952756" stroke="black" />
@@ -927,6 +988,7 @@
 <line x1="161.06299212598427" y1="515.8976377952756" x2="167.06299212598427" y2="521.8976377952756" stroke="black" stroke-width="2"/>
 <line x1="161.06299212598427" y1="521.8976377952756" x2="167.06299212598427" y2="515.8976377952756" stroke="black" stroke-width="2"/>
 <circle cx="152.06299212598427" cy="530.8976377952756" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="518.8976377952756" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="527.8976377952756" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">183</text>
 <rect x="136.06299212598427" y="498.8976377952756" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="500.8976377952756" x2="294.12598425196853" y2="536.8976377952756" stroke="black" />
@@ -942,6 +1004,7 @@
 <line x1="309.12598425196853" y1="515.8976377952756" x2="315.12598425196853" y2="521.8976377952756" stroke="black" stroke-width="2"/>
 <line x1="309.12598425196853" y1="521.8976377952756" x2="315.12598425196853" y2="515.8976377952756" stroke="black" stroke-width="2"/>
 <circle cx="300.12598425196853" cy="530.8976377952756" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="518.8976377952756" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="527.8976377952756" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">184</text>
 <rect x="272.12598425196853" y="498.8976377952756" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="500.8976377952756" x2="430.1889763779528" y2="536.8976377952756" stroke="black" />
@@ -957,6 +1020,7 @@
 <line x1="433.1889763779528" y1="527.8976377952756" x2="439.1889763779528" y2="533.8976377952756" stroke="black" stroke-width="2"/>
 <line x1="433.1889763779528" y1="533.8976377952756" x2="439.1889763779528" y2="527.8976377952756" stroke="black" stroke-width="2"/>
 <circle cx="448.1889763779528" cy="530.8976377952756" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="518.8976377952756" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="527.8976377952756" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">185</text>
 <rect x="408.1889763779528" y="498.8976377952756" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="500.8976377952756" x2="566.2519685039371" y2="536.8976377952756" stroke="black" />
@@ -972,6 +1036,7 @@
 <line x1="569.2519685039371" y1="521.8976377952756" x2="575.2519685039371" y2="515.8976377952756" stroke="black" stroke-width="2"/>
 <circle cx="584.2519685039371" cy="518.8976377952756" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="572.2519685039371" cy="530.8976377952756" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="518.8976377952756" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="527.8976377952756" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">186</text>
 <rect x="544.2519685039371" y="498.8976377952756" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="542.4724409448819" x2="22.0" y2="578.4724409448819" stroke="black" />
@@ -987,6 +1052,7 @@
 <line x1="13.0" y1="569.4724409448819" x2="19.0" y2="575.4724409448819" stroke="black" stroke-width="2"/>
 <line x1="13.0" y1="575.4724409448819" x2="19.0" y2="569.4724409448819" stroke="black" stroke-width="2"/>
 <circle cx="40.0" cy="572.4724409448819" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="68.0" cy="560.4724409448819" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="569.4724409448819" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">187</text>
 <rect x="0.0" y="540.4724409448819" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="542.4724409448819" x2="158.06299212598427" y2="578.4724409448819" stroke="black" />
@@ -1002,6 +1068,7 @@
 <circle cx="152.06299212598427" cy="572.4724409448819" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="161.06299212598427" y1="569.4724409448819" x2="167.06299212598427" y2="575.4724409448819" stroke="black" stroke-width="2"/>
 <line x1="161.06299212598427" y1="575.4724409448819" x2="167.06299212598427" y2="569.4724409448819" stroke="black" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="560.4724409448819" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="569.4724409448819" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">188</text>
 <rect x="136.06299212598427" y="540.4724409448819" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="542.4724409448819" x2="294.12598425196853" y2="578.4724409448819" stroke="black" />
@@ -1017,6 +1084,7 @@
 <circle cx="300.12598425196853" cy="560.4724409448819" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="309.12598425196853" y1="557.4724409448819" x2="315.12598425196853" y2="563.4724409448819" stroke="black" stroke-width="2"/>
 <line x1="309.12598425196853" y1="563.4724409448819" x2="315.12598425196853" y2="557.4724409448819" stroke="black" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="560.4724409448819" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="569.4724409448819" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">189</text>
 <rect x="272.12598425196853" y="540.4724409448819" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="542.4724409448819" x2="430.1889763779528" y2="578.4724409448819" stroke="black" />
@@ -1032,6 +1100,7 @@
 <line x1="445.1889763779528" y1="563.4724409448819" x2="451.1889763779528" y2="557.4724409448819" stroke="black" stroke-width="2"/>
 <line x1="421.1889763779528" y1="569.4724409448819" x2="427.1889763779528" y2="575.4724409448819" stroke="black" stroke-width="2"/>
 <line x1="421.1889763779528" y1="575.4724409448819" x2="427.1889763779528" y2="569.4724409448819" stroke="black" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="560.4724409448819" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="569.4724409448819" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">190</text>
 <rect x="408.1889763779528" y="540.4724409448819" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="542.4724409448819" x2="566.2519685039371" y2="578.4724409448819" stroke="black" />
@@ -1047,6 +1116,7 @@
 <line x1="569.2519685039371" y1="569.4724409448819" x2="575.2519685039371" y2="575.4724409448819" stroke="black" stroke-width="2"/>
 <line x1="569.2519685039371" y1="575.4724409448819" x2="575.2519685039371" y2="569.4724409448819" stroke="black" stroke-width="2"/>
 <circle cx="584.2519685039371" cy="572.4724409448819" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="560.4724409448819" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="569.4724409448819" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">191</text>
 <rect x="544.2519685039371" y="540.4724409448819" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="584.0472440944883" x2="22.0" y2="620.0472440944883" stroke="black" />
@@ -1062,6 +1132,7 @@
 <circle cx="40.0" cy="602.0472440944883" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="25.0" y1="611.0472440944883" x2="31.0" y2="617.0472440944883" stroke="black" stroke-width="2"/>
 <line x1="25.0" y1="617.0472440944883" x2="31.0" y2="611.0472440944883" stroke="black" stroke-width="2"/>
+<circle cx="68.0" cy="602.0472440944883" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="611.0472440944883" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">192</text>
 <rect x="0.0" y="582.0472440944883" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="584.0472440944883" x2="158.06299212598427" y2="620.0472440944883" stroke="black" />
@@ -1077,6 +1148,7 @@
 <line x1="161.06299212598427" y1="611.0472440944883" x2="167.06299212598427" y2="617.0472440944883" stroke="black" stroke-width="2"/>
 <line x1="161.06299212598427" y1="617.0472440944883" x2="167.06299212598427" y2="611.0472440944883" stroke="black" stroke-width="2"/>
 <circle cx="176.06299212598427" cy="614.0472440944883" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="602.0472440944883" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="611.0472440944883" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">193</text>
 <rect x="136.06299212598427" y="582.0472440944883" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="584.0472440944883" x2="294.12598425196853" y2="620.0472440944883" stroke="black" />
@@ -1092,6 +1164,7 @@
 <line x1="285.12598425196853" y1="617.0472440944883" x2="291.12598425196853" y2="611.0472440944883" stroke="black" stroke-width="2"/>
 <line x1="297.12598425196853" y1="611.0472440944883" x2="303.12598425196853" y2="617.0472440944883" stroke="black" stroke-width="2"/>
 <line x1="297.12598425196853" y1="617.0472440944883" x2="303.12598425196853" y2="611.0472440944883" stroke="black" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="602.0472440944883" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="611.0472440944883" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">194</text>
 <rect x="272.12598425196853" y="582.0472440944883" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="584.0472440944883" x2="430.1889763779528" y2="620.0472440944883" stroke="black" />
@@ -1107,6 +1180,7 @@
 <line x1="445.1889763779528" y1="599.0472440944883" x2="451.1889763779528" y2="605.0472440944883" stroke="black" stroke-width="2"/>
 <line x1="445.1889763779528" y1="605.0472440944883" x2="451.1889763779528" y2="599.0472440944883" stroke="black" stroke-width="2"/>
 <circle cx="436.1889763779528" cy="614.0472440944883" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="602.0472440944883" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="611.0472440944883" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">195</text>
 <rect x="408.1889763779528" y="582.0472440944883" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="584.0472440944883" x2="566.2519685039371" y2="620.0472440944883" stroke="black" />
@@ -1122,6 +1196,7 @@
 <line x1="581.2519685039371" y1="599.0472440944883" x2="587.2519685039371" y2="605.0472440944883" stroke="black" stroke-width="2"/>
 <line x1="581.2519685039371" y1="605.0472440944883" x2="587.2519685039371" y2="599.0472440944883" stroke="black" stroke-width="2"/>
 <circle cx="584.2519685039371" cy="614.0472440944883" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="602.0472440944883" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="611.0472440944883" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">196</text>
 <rect x="544.2519685039371" y="582.0472440944883" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="625.6220472440946" x2="22.0" y2="661.6220472440946" stroke="black" />
@@ -1137,6 +1212,7 @@
 <line x1="37.0" y1="646.6220472440946" x2="43.0" y2="640.6220472440946" stroke="black" stroke-width="2"/>
 <circle cx="28.0" cy="655.6220472440946" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="40.0" cy="655.6220472440946" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="68.0" cy="643.6220472440946" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="652.6220472440946" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">197</text>
 <rect x="0.0" y="623.6220472440946" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="625.6220472440946" x2="158.06299212598427" y2="661.6220472440946" stroke="black" />
@@ -1152,6 +1228,7 @@
 <line x1="161.06299212598427" y1="652.6220472440946" x2="167.06299212598427" y2="658.6220472440946" stroke="black" stroke-width="2"/>
 <line x1="161.06299212598427" y1="658.6220472440946" x2="167.06299212598427" y2="652.6220472440946" stroke="black" stroke-width="2"/>
 <circle cx="176.06299212598427" cy="655.6220472440946" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="643.6220472440946" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="652.6220472440946" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">198</text>
 <rect x="136.06299212598427" y="623.6220472440946" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="625.6220472440946" x2="294.12598425196853" y2="661.6220472440946" stroke="black" />
@@ -1167,6 +1244,7 @@
 <line x1="297.12598425196853" y1="652.6220472440946" x2="303.12598425196853" y2="658.6220472440946" stroke="black" stroke-width="2"/>
 <line x1="297.12598425196853" y1="658.6220472440946" x2="303.12598425196853" y2="652.6220472440946" stroke="black" stroke-width="2"/>
 <circle cx="312.12598425196853" cy="655.6220472440946" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="643.6220472440946" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="652.6220472440946" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">199</text>
 <rect x="272.12598425196853" y="623.6220472440946" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="625.6220472440946" x2="430.1889763779528" y2="661.6220472440946" stroke="black" />
@@ -1182,6 +1260,7 @@
 <line x1="421.1889763779528" y1="646.6220472440946" x2="427.1889763779528" y2="640.6220472440946" stroke="black" stroke-width="2"/>
 <circle cx="424.1889763779528" cy="655.6220472440946" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="436.1889763779528" cy="655.6220472440946" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="643.6220472440946" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="652.6220472440946" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">200</text>
 <rect x="408.1889763779528" y="623.6220472440946" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="625.6220472440946" x2="566.2519685039371" y2="661.6220472440946" stroke="black" />
@@ -1197,6 +1276,7 @@
 <circle cx="572.2519685039371" cy="643.6220472440946" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="584.2519685039371" cy="643.6220472440946" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="572.2519685039371" cy="655.6220472440946" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="643.6220472440946" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="652.6220472440946" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">201</text>
 <rect x="544.2519685039371" y="623.6220472440946" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="667.1968503937009" x2="22.0" y2="703.1968503937009" stroke="black" />
@@ -1212,6 +1292,7 @@
 <line x1="25.0" y1="694.1968503937009" x2="31.0" y2="700.1968503937009" stroke="black" stroke-width="2"/>
 <line x1="25.0" y1="700.1968503937009" x2="31.0" y2="694.1968503937009" stroke="black" stroke-width="2"/>
 <circle cx="40.0" cy="697.1968503937009" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="68.0" cy="685.1968503937009" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="694.1968503937009" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">202</text>
 <rect x="0.0" y="665.1968503937009" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="667.1968503937009" x2="158.06299212598427" y2="703.1968503937009" stroke="black" />
@@ -1227,6 +1308,7 @@
 <line x1="161.06299212598427" y1="688.1968503937009" x2="167.06299212598427" y2="682.1968503937009" stroke="black" stroke-width="2"/>
 <circle cx="152.06299212598427" cy="697.1968503937009" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="164.06299212598427" cy="697.1968503937009" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="685.1968503937009" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="694.1968503937009" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">203</text>
 <rect x="136.06299212598427" y="665.1968503937009" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="667.1968503937009" x2="294.12598425196853" y2="703.1968503937009" stroke="black" />
@@ -1242,6 +1324,7 @@
 <line x1="309.12598425196853" y1="682.1968503937009" x2="315.12598425196853" y2="688.1968503937009" stroke="black" stroke-width="2"/>
 <line x1="309.12598425196853" y1="688.1968503937009" x2="315.12598425196853" y2="682.1968503937009" stroke="black" stroke-width="2"/>
 <circle cx="288.12598425196853" cy="697.1968503937009" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="685.1968503937009" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="694.1968503937009" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">204</text>
 <rect x="272.12598425196853" y="665.1968503937009" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="667.1968503937009" x2="430.1889763779528" y2="703.1968503937009" stroke="black" />
@@ -1257,6 +1340,7 @@
 <line x1="433.1889763779528" y1="688.1968503937009" x2="439.1889763779528" y2="682.1968503937009" stroke="black" stroke-width="2"/>
 <line x1="433.1889763779528" y1="694.1968503937009" x2="439.1889763779528" y2="700.1968503937009" stroke="black" stroke-width="2"/>
 <line x1="433.1889763779528" y1="700.1968503937009" x2="439.1889763779528" y2="694.1968503937009" stroke="black" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="685.1968503937009" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="694.1968503937009" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">205</text>
 <rect x="408.1889763779528" y="665.1968503937009" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="667.1968503937009" x2="566.2519685039371" y2="703.1968503937009" stroke="black" />
@@ -1272,6 +1356,7 @@
 <circle cx="572.2519685039371" cy="685.1968503937009" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="581.2519685039371" y1="694.1968503937009" x2="587.2519685039371" y2="700.1968503937009" stroke="black" stroke-width="2"/>
 <line x1="581.2519685039371" y1="700.1968503937009" x2="587.2519685039371" y2="694.1968503937009" stroke="black" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="685.1968503937009" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="694.1968503937009" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">206</text>
 <rect x="544.2519685039371" y="665.1968503937009" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="708.7716535433071" x2="22.0" y2="744.7716535433071" stroke="black" />
@@ -1287,6 +1372,7 @@
 <line x1="25.0" y1="729.7716535433071" x2="31.0" y2="723.7716535433071" stroke="black" stroke-width="2"/>
 <circle cx="28.0" cy="738.7716535433071" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="40.0" cy="738.7716535433071" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="68.0" cy="726.7716535433071" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="735.7716535433071" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">207</text>
 <rect x="0.0" y="706.7716535433071" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="708.7716535433071" x2="158.06299212598427" y2="744.7716535433071" stroke="black" />
@@ -1302,6 +1388,7 @@
 <line x1="173.06299212598427" y1="723.7716535433071" x2="179.06299212598427" y2="729.7716535433071" stroke="black" stroke-width="2"/>
 <line x1="173.06299212598427" y1="729.7716535433071" x2="179.06299212598427" y2="723.7716535433071" stroke="black" stroke-width="2"/>
 <circle cx="152.06299212598427" cy="738.7716535433071" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="726.7716535433071" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="735.7716535433071" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">208</text>
 <rect x="136.06299212598427" y="706.7716535433071" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="708.7716535433071" x2="294.12598425196853" y2="744.7716535433071" stroke="black" />
@@ -1317,6 +1404,7 @@
 <line x1="297.12598425196853" y1="729.7716535433071" x2="303.12598425196853" y2="723.7716535433071" stroke="black" stroke-width="2"/>
 <circle cx="312.12598425196853" cy="726.7716535433071" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="312.12598425196853" cy="738.7716535433071" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="726.7716535433071" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="735.7716535433071" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">209</text>
 <rect x="272.12598425196853" y="706.7716535433071" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="708.7716535433071" x2="430.1889763779528" y2="744.7716535433071" stroke="black" />
@@ -1332,6 +1420,7 @@
 <circle cx="424.1889763779528" cy="738.7716535433071" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="445.1889763779528" y1="735.7716535433071" x2="451.1889763779528" y2="741.7716535433071" stroke="black" stroke-width="2"/>
 <line x1="445.1889763779528" y1="741.7716535433071" x2="451.1889763779528" y2="735.7716535433071" stroke="black" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="726.7716535433071" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="735.7716535433071" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">210</text>
 <rect x="408.1889763779528" y="706.7716535433071" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="708.7716535433071" x2="566.2519685039371" y2="744.7716535433071" stroke="black" />
@@ -1347,6 +1436,7 @@
 <line x1="581.2519685039371" y1="723.7716535433071" x2="587.2519685039371" y2="729.7716535433071" stroke="black" stroke-width="2"/>
 <line x1="581.2519685039371" y1="729.7716535433071" x2="587.2519685039371" y2="723.7716535433071" stroke="black" stroke-width="2"/>
 <circle cx="584.2519685039371" cy="738.7716535433071" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="726.7716535433071" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="735.7716535433071" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">211</text>
 <rect x="544.2519685039371" y="706.7716535433071" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="750.3464566929134" x2="22.0" y2="786.3464566929134" stroke="black" />
@@ -1362,6 +1452,7 @@
 <line x1="13.0" y1="777.3464566929134" x2="19.0" y2="783.3464566929134" stroke="black" stroke-width="2"/>
 <line x1="13.0" y1="783.3464566929134" x2="19.0" y2="777.3464566929134" stroke="black" stroke-width="2"/>
 <circle cx="28.0" cy="780.3464566929134" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="68.0" cy="768.3464566929134" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="777.3464566929134" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">212</text>
 <rect x="0.0" y="748.3464566929134" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="750.3464566929134" x2="158.06299212598427" y2="786.3464566929134" stroke="black" />
@@ -1377,6 +1468,7 @@
 <line x1="161.06299212598427" y1="771.3464566929134" x2="167.06299212598427" y2="765.3464566929134" stroke="black" stroke-width="2"/>
 <circle cx="176.06299212598427" cy="768.3464566929134" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="164.06299212598427" cy="780.3464566929134" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="768.3464566929134" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="777.3464566929134" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">213</text>
 <rect x="136.06299212598427" y="748.3464566929134" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="750.3464566929134" x2="294.12598425196853" y2="786.3464566929134" stroke="black" />
@@ -1392,6 +1484,7 @@
 <line x1="309.12598425196853" y1="765.3464566929134" x2="315.12598425196853" y2="771.3464566929134" stroke="black" stroke-width="2"/>
 <line x1="309.12598425196853" y1="771.3464566929134" x2="315.12598425196853" y2="765.3464566929134" stroke="black" stroke-width="2"/>
 <circle cx="300.12598425196853" cy="780.3464566929134" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="768.3464566929134" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="777.3464566929134" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">214</text>
 <rect x="272.12598425196853" y="748.3464566929134" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="750.3464566929134" x2="430.1889763779528" y2="786.3464566929134" stroke="black" />
@@ -1407,6 +1500,7 @@
 <line x1="433.1889763779528" y1="765.3464566929134" x2="439.1889763779528" y2="771.3464566929134" stroke="black" stroke-width="2"/>
 <line x1="433.1889763779528" y1="771.3464566929134" x2="439.1889763779528" y2="765.3464566929134" stroke="black" stroke-width="2"/>
 <circle cx="436.1889763779528" cy="780.3464566929134" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="768.3464566929134" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="777.3464566929134" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">215</text>
 <rect x="408.1889763779528" y="748.3464566929134" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="750.3464566929134" x2="566.2519685039371" y2="786.3464566929134" stroke="black" />
@@ -1422,6 +1516,7 @@
 <line x1="569.2519685039371" y1="777.3464566929134" x2="575.2519685039371" y2="783.3464566929134" stroke="black" stroke-width="2"/>
 <line x1="569.2519685039371" y1="783.3464566929134" x2="575.2519685039371" y2="777.3464566929134" stroke="black" stroke-width="2"/>
 <circle cx="584.2519685039371" cy="780.3464566929134" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="768.3464566929134" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="777.3464566929134" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">216</text>
 <rect x="544.2519685039371" y="748.3464566929134" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="791.9212598425198" x2="22.0" y2="827.9212598425198" stroke="black" />
@@ -1437,6 +1532,7 @@
 <circle cx="40.0" cy="809.9212598425198" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="13.0" y1="818.9212598425198" x2="19.0" y2="824.9212598425198" stroke="black" stroke-width="2"/>
 <line x1="13.0" y1="824.9212598425198" x2="19.0" y2="818.9212598425198" stroke="black" stroke-width="2"/>
+<circle cx="68.0" cy="809.9212598425198" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="818.9212598425198" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">217</text>
 <rect x="0.0" y="789.9212598425198" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="791.9212598425198" x2="158.06299212598427" y2="827.9212598425198" stroke="black" />
@@ -1452,6 +1548,7 @@
 <circle cx="152.06299212598427" cy="821.9212598425198" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="161.06299212598427" y1="818.9212598425198" x2="167.06299212598427" y2="824.9212598425198" stroke="black" stroke-width="2"/>
 <line x1="161.06299212598427" y1="824.9212598425198" x2="167.06299212598427" y2="818.9212598425198" stroke="black" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="809.9212598425198" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="818.9212598425198" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">218</text>
 <rect x="136.06299212598427" y="789.9212598425198" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="791.9212598425198" x2="294.12598425196853" y2="827.9212598425198" stroke="black" />
@@ -1467,6 +1564,7 @@
 <line x1="297.12598425196853" y1="818.9212598425198" x2="303.12598425196853" y2="824.9212598425198" stroke="black" stroke-width="2"/>
 <line x1="297.12598425196853" y1="824.9212598425198" x2="303.12598425196853" y2="818.9212598425198" stroke="black" stroke-width="2"/>
 <circle cx="312.12598425196853" cy="821.9212598425198" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="809.9212598425198" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="818.9212598425198" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">219</text>
 <rect x="272.12598425196853" y="789.9212598425198" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="791.9212598425198" x2="430.1889763779528" y2="827.9212598425198" stroke="black" />
@@ -1482,6 +1580,7 @@
 <line x1="433.1889763779528" y1="818.9212598425198" x2="439.1889763779528" y2="824.9212598425198" stroke="black" stroke-width="2"/>
 <line x1="433.1889763779528" y1="824.9212598425198" x2="439.1889763779528" y2="818.9212598425198" stroke="black" stroke-width="2"/>
 <circle cx="448.1889763779528" cy="821.9212598425198" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="809.9212598425198" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="818.9212598425198" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">220</text>
 <rect x="408.1889763779528" y="789.9212598425198" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="791.9212598425198" x2="566.2519685039371" y2="827.9212598425198" stroke="black" />
@@ -1497,6 +1596,7 @@
 <circle cx="560.2519685039371" cy="821.9212598425198" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="569.2519685039371" y1="818.9212598425198" x2="575.2519685039371" y2="824.9212598425198" stroke="black" stroke-width="2"/>
 <line x1="569.2519685039371" y1="824.9212598425198" x2="575.2519685039371" y2="818.9212598425198" stroke="black" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="809.9212598425198" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="818.9212598425198" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">221</text>
 <rect x="544.2519685039371" y="789.9212598425198" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="833.4960629921261" x2="22.0" y2="869.4960629921261" stroke="black" />
@@ -1512,6 +1612,7 @@
 <line x1="25.0" y1="848.4960629921261" x2="31.0" y2="854.4960629921261" stroke="black" stroke-width="2"/>
 <line x1="25.0" y1="854.4960629921261" x2="31.0" y2="848.4960629921261" stroke="black" stroke-width="2"/>
 <circle cx="40.0" cy="863.4960629921261" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="68.0" cy="851.4960629921261" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="860.4960629921261" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">222</text>
 <rect x="0.0" y="831.4960629921261" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="833.4960629921261" x2="158.06299212598427" y2="869.4960629921261" stroke="black" />
@@ -1527,6 +1628,7 @@
 <line x1="173.06299212598427" y1="848.4960629921261" x2="179.06299212598427" y2="854.4960629921261" stroke="black" stroke-width="2"/>
 <line x1="173.06299212598427" y1="854.4960629921261" x2="179.06299212598427" y2="848.4960629921261" stroke="black" stroke-width="2"/>
 <circle cx="152.06299212598427" cy="863.4960629921261" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="851.4960629921261" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="860.4960629921261" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">223</text>
 <rect x="136.06299212598427" y="831.4960629921261" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="833.4960629921261" x2="294.12598425196853" y2="869.4960629921261" stroke="black" />
@@ -1542,6 +1644,7 @@
 <line x1="309.12598425196853" y1="854.4960629921261" x2="315.12598425196853" y2="848.4960629921261" stroke="black" stroke-width="2"/>
 <circle cx="288.12598425196853" cy="863.4960629921261" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="300.12598425196853" cy="863.4960629921261" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="851.4960629921261" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="860.4960629921261" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">224</text>
 <rect x="272.12598425196853" y="831.4960629921261" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="833.4960629921261" x2="430.1889763779528" y2="869.4960629921261" stroke="black" />
@@ -1557,6 +1660,7 @@
 <line x1="433.1889763779528" y1="854.4960629921261" x2="439.1889763779528" y2="848.4960629921261" stroke="black" stroke-width="2"/>
 <circle cx="448.1889763779528" cy="851.4960629921261" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="424.1889763779528" cy="863.4960629921261" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="851.4960629921261" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="860.4960629921261" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">225</text>
 <rect x="408.1889763779528" y="831.4960629921261" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="833.4960629921261" x2="566.2519685039371" y2="869.4960629921261" stroke="black" />
@@ -1572,6 +1676,7 @@
 <line x1="557.2519685039371" y1="854.4960629921261" x2="563.2519685039371" y2="848.4960629921261" stroke="black" stroke-width="2"/>
 <circle cx="560.2519685039371" cy="863.4960629921261" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="584.2519685039371" cy="863.4960629921261" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="851.4960629921261" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="860.4960629921261" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">226</text>
 <rect x="544.2519685039371" y="831.4960629921261" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="875.0708661417324" x2="22.0" y2="911.0708661417324" stroke="black" />
@@ -1587,6 +1692,7 @@
 <line x1="37.0" y1="896.0708661417324" x2="43.0" y2="890.0708661417324" stroke="black" stroke-width="2"/>
 <line x1="25.0" y1="902.0708661417324" x2="31.0" y2="908.0708661417324" stroke="black" stroke-width="2"/>
 <line x1="25.0" y1="908.0708661417324" x2="31.0" y2="902.0708661417324" stroke="black" stroke-width="2"/>
+<circle cx="68.0" cy="893.0708661417324" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="902.0708661417324" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">227</text>
 <rect x="0.0" y="873.0708661417324" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="875.0708661417324" x2="158.06299212598427" y2="911.0708661417324" stroke="black" />
@@ -1602,6 +1708,7 @@
 <line x1="173.06299212598427" y1="890.0708661417324" x2="179.06299212598427" y2="896.0708661417324" stroke="black" stroke-width="2"/>
 <line x1="173.06299212598427" y1="896.0708661417324" x2="179.06299212598427" y2="890.0708661417324" stroke="black" stroke-width="2"/>
 <circle cx="164.06299212598427" cy="905.0708661417324" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="893.0708661417324" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="902.0708661417324" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">228</text>
 <rect x="136.06299212598427" y="873.0708661417324" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="875.0708661417324" x2="294.12598425196853" y2="911.0708661417324" stroke="black" />
@@ -1617,6 +1724,7 @@
 <line x1="309.12598425196853" y1="896.0708661417324" x2="315.12598425196853" y2="890.0708661417324" stroke="black" stroke-width="2"/>
 <circle cx="288.12598425196853" cy="905.0708661417324" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="312.12598425196853" cy="905.0708661417324" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="893.0708661417324" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="902.0708661417324" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">229</text>
 <rect x="272.12598425196853" y="873.0708661417324" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="875.0708661417324" x2="430.1889763779528" y2="911.0708661417324" stroke="black" />
@@ -1632,6 +1740,7 @@
 <line x1="421.1889763779528" y1="908.0708661417324" x2="427.1889763779528" y2="902.0708661417324" stroke="black" stroke-width="2"/>
 <line x1="433.1889763779528" y1="902.0708661417324" x2="439.1889763779528" y2="908.0708661417324" stroke="black" stroke-width="2"/>
 <line x1="433.1889763779528" y1="908.0708661417324" x2="439.1889763779528" y2="902.0708661417324" stroke="black" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="893.0708661417324" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="902.0708661417324" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">230</text>
 <rect x="408.1889763779528" y="873.0708661417324" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="875.0708661417324" x2="566.2519685039371" y2="911.0708661417324" stroke="black" />
@@ -1647,6 +1756,7 @@
 <line x1="581.2519685039371" y1="890.0708661417324" x2="587.2519685039371" y2="896.0708661417324" stroke="black" stroke-width="2"/>
 <line x1="581.2519685039371" y1="896.0708661417324" x2="587.2519685039371" y2="890.0708661417324" stroke="black" stroke-width="2"/>
 <circle cx="560.2519685039371" cy="905.0708661417324" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="893.0708661417324" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="902.0708661417324" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">231</text>
 <rect x="544.2519685039371" y="873.0708661417324" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="916.6456692913387" x2="22.0" y2="952.6456692913387" stroke="black" />
@@ -1662,6 +1772,7 @@
 <line x1="13.0" y1="937.6456692913387" x2="19.0" y2="931.6456692913387" stroke="black" stroke-width="2"/>
 <circle cx="28.0" cy="934.6456692913387" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="28.0" cy="946.6456692913387" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="68.0" cy="934.6456692913387" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="943.6456692913387" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">232</text>
 <rect x="0.0" y="914.6456692913387" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="916.6456692913387" x2="158.06299212598427" y2="952.6456692913387" stroke="black" />
@@ -1677,6 +1788,7 @@
 <line x1="149.06299212598427" y1="937.6456692913387" x2="155.06299212598427" y2="931.6456692913387" stroke="black" stroke-width="2"/>
 <circle cx="164.06299212598427" cy="934.6456692913387" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="152.06299212598427" cy="946.6456692913387" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="934.6456692913387" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="943.6456692913387" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">233</text>
 <rect x="136.06299212598427" y="914.6456692913387" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="916.6456692913387" x2="294.12598425196853" y2="952.6456692913387" stroke="black" />
@@ -1692,6 +1804,7 @@
 <line x1="309.12598425196853" y1="937.6456692913387" x2="315.12598425196853" y2="931.6456692913387" stroke="black" stroke-width="2"/>
 <circle cx="300.12598425196853" cy="946.6456692913387" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="312.12598425196853" cy="946.6456692913387" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="934.6456692913387" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="943.6456692913387" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">234</text>
 <rect x="272.12598425196853" y="914.6456692913387" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="916.6456692913387" x2="430.1889763779528" y2="952.6456692913387" stroke="black" />
@@ -1707,6 +1820,7 @@
 <line x1="445.1889763779528" y1="937.6456692913387" x2="451.1889763779528" y2="931.6456692913387" stroke="black" stroke-width="2"/>
 <circle cx="424.1889763779528" cy="946.6456692913387" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="436.1889763779528" cy="946.6456692913387" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="934.6456692913387" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="943.6456692913387" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">235</text>
 <rect x="408.1889763779528" y="914.6456692913387" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="916.6456692913387" x2="566.2519685039371" y2="952.6456692913387" stroke="black" />
@@ -1722,6 +1836,7 @@
 <line x1="569.2519685039371" y1="937.6456692913387" x2="575.2519685039371" y2="931.6456692913387" stroke="black" stroke-width="2"/>
 <circle cx="560.2519685039371" cy="946.6456692913387" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="572.2519685039371" cy="946.6456692913387" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="934.6456692913387" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="943.6456692913387" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">236</text>
 <rect x="544.2519685039371" y="914.6456692913387" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="958.220472440945" x2="22.0" y2="994.220472440945" stroke="black" />
@@ -1737,6 +1852,7 @@
 <line x1="25.0" y1="991.220472440945" x2="31.0" y2="985.220472440945" stroke="black" stroke-width="2"/>
 <line x1="37.0" y1="985.220472440945" x2="43.0" y2="991.220472440945" stroke="black" stroke-width="2"/>
 <line x1="37.0" y1="991.220472440945" x2="43.0" y2="985.220472440945" stroke="black" stroke-width="2"/>
+<circle cx="68.0" cy="976.220472440945" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="985.220472440945" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">237</text>
 <rect x="0.0" y="956.220472440945" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="958.220472440945" x2="158.06299212598427" y2="994.220472440945" stroke="black" />
@@ -1752,6 +1868,7 @@
 <circle cx="164.06299212598427" cy="976.220472440945" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="173.06299212598427" y1="985.220472440945" x2="179.06299212598427" y2="991.220472440945" stroke="black" stroke-width="2"/>
 <line x1="173.06299212598427" y1="991.220472440945" x2="179.06299212598427" y2="985.220472440945" stroke="black" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="976.220472440945" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="985.220472440945" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">238</text>
 <rect x="136.06299212598427" y="956.220472440945" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="958.220472440945" x2="294.12598425196853" y2="994.220472440945" stroke="black" />
@@ -1767,6 +1884,7 @@
 <line x1="309.12598425196853" y1="979.220472440945" x2="315.12598425196853" y2="973.220472440945" stroke="black" stroke-width="2"/>
 <circle cx="288.12598425196853" cy="988.220472440945" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="300.12598425196853" cy="988.220472440945" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="976.220472440945" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="985.220472440945" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">239</text>
 <rect x="272.12598425196853" y="956.220472440945" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="958.220472440945" x2="430.1889763779528" y2="994.220472440945" stroke="black" />
@@ -1782,6 +1900,7 @@
 <line x1="445.1889763779528" y1="973.220472440945" x2="451.1889763779528" y2="979.220472440945" stroke="black" stroke-width="2"/>
 <line x1="445.1889763779528" y1="979.220472440945" x2="451.1889763779528" y2="973.220472440945" stroke="black" stroke-width="2"/>
 <circle cx="448.1889763779528" cy="988.220472440945" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="976.220472440945" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="985.220472440945" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">240</text>
 <rect x="408.1889763779528" y="956.220472440945" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="958.220472440945" x2="566.2519685039371" y2="994.220472440945" stroke="black" />
@@ -1797,6 +1916,7 @@
 <line x1="569.2519685039371" y1="985.220472440945" x2="575.2519685039371" y2="991.220472440945" stroke="black" stroke-width="2"/>
 <line x1="569.2519685039371" y1="991.220472440945" x2="575.2519685039371" y2="985.220472440945" stroke="black" stroke-width="2"/>
 <circle cx="584.2519685039371" cy="988.220472440945" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="976.220472440945" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="985.220472440945" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">241</text>
 <rect x="544.2519685039371" y="956.220472440945" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="999.7952755905512" x2="22.0" y2="1035.7952755905512" stroke="black" />
@@ -1812,6 +1932,7 @@
 <line x1="13.0" y1="1026.7952755905512" x2="19.0" y2="1032.7952755905512" stroke="black" stroke-width="2"/>
 <line x1="13.0" y1="1032.7952755905512" x2="19.0" y2="1026.7952755905512" stroke="black" stroke-width="2"/>
 <circle cx="28.0" cy="1029.7952755905512" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="68.0" cy="1017.7952755905512" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="1026.7952755905512" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">242</text>
 <rect x="0.0" y="997.7952755905512" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="999.7952755905512" x2="158.06299212598427" y2="1035.7952755905512" stroke="black" />
@@ -1827,6 +1948,7 @@
 <line x1="161.06299212598427" y1="1020.7952755905512" x2="167.06299212598427" y2="1014.7952755905512" stroke="black" stroke-width="2"/>
 <circle cx="152.06299212598427" cy="1029.7952755905512" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="176.06299212598427" cy="1029.7952755905512" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="1017.7952755905512" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="1026.7952755905512" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">243</text>
 <rect x="136.06299212598427" y="997.7952755905512" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="999.7952755905512" x2="294.12598425196853" y2="1035.7952755905512" stroke="black" />
@@ -1842,6 +1964,7 @@
 <line x1="309.12598425196853" y1="1020.7952755905512" x2="315.12598425196853" y2="1014.7952755905512" stroke="black" stroke-width="2"/>
 <circle cx="288.12598425196853" cy="1029.7952755905512" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="300.12598425196853" cy="1029.7952755905512" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="1017.7952755905512" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="1026.7952755905512" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">244</text>
 <rect x="272.12598425196853" y="997.7952755905512" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="999.7952755905512" x2="430.1889763779528" y2="1035.7952755905512" stroke="black" />
@@ -1857,6 +1980,7 @@
 <line x1="433.1889763779528" y1="1014.7952755905512" x2="439.1889763779528" y2="1020.7952755905512" stroke="black" stroke-width="2"/>
 <line x1="433.1889763779528" y1="1020.7952755905512" x2="439.1889763779528" y2="1014.7952755905512" stroke="black" stroke-width="2"/>
 <circle cx="448.1889763779528" cy="1017.7952755905512" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="1017.7952755905512" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="1026.7952755905512" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">245</text>
 <rect x="408.1889763779528" y="997.7952755905512" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="999.7952755905512" x2="566.2519685039371" y2="1035.7952755905512" stroke="black" />
@@ -1872,6 +1996,7 @@
 <line x1="581.2519685039371" y1="1020.7952755905512" x2="587.2519685039371" y2="1014.7952755905512" stroke="black" stroke-width="2"/>
 <circle cx="560.2519685039371" cy="1029.7952755905512" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="572.2519685039371" cy="1029.7952755905512" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="1017.7952755905512" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="1026.7952755905512" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">246</text>
 <rect x="544.2519685039371" y="997.7952755905512" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="1041.3700787401576" x2="22.0" y2="1077.3700787401576" stroke="black" />
@@ -1887,6 +2012,7 @@
 <line x1="25.0" y1="1068.3700787401576" x2="31.0" y2="1074.3700787401576" stroke="black" stroke-width="2"/>
 <line x1="25.0" y1="1074.3700787401576" x2="31.0" y2="1068.3700787401576" stroke="black" stroke-width="2"/>
 <circle cx="40.0" cy="1071.3700787401576" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="68.0" cy="1059.3700787401576" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="1068.3700787401576" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">247</text>
 <rect x="0.0" y="1039.3700787401576" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="1041.3700787401576" x2="158.06299212598427" y2="1077.3700787401576" stroke="black" />
@@ -1902,6 +2028,7 @@
 <line x1="149.06299212598427" y1="1068.3700787401576" x2="155.06299212598427" y2="1074.3700787401576" stroke="black" stroke-width="2"/>
 <line x1="149.06299212598427" y1="1074.3700787401576" x2="155.06299212598427" y2="1068.3700787401576" stroke="black" stroke-width="2"/>
 <circle cx="176.06299212598427" cy="1071.3700787401576" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="1059.3700787401576" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="1068.3700787401576" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">248</text>
 <rect x="136.06299212598427" y="1039.3700787401576" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="1041.3700787401576" x2="294.12598425196853" y2="1077.3700787401576" stroke="black" />
@@ -1917,6 +2044,7 @@
 <line x1="309.12598425196853" y1="1056.3700787401576" x2="315.12598425196853" y2="1062.3700787401576" stroke="black" stroke-width="2"/>
 <line x1="309.12598425196853" y1="1062.3700787401576" x2="315.12598425196853" y2="1056.3700787401576" stroke="black" stroke-width="2"/>
 <circle cx="300.12598425196853" cy="1071.3700787401576" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="1059.3700787401576" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="1068.3700787401576" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">249</text>
 <rect x="272.12598425196853" y="1039.3700787401576" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="1041.3700787401576" x2="430.1889763779528" y2="1077.3700787401576" stroke="black" />
@@ -1932,6 +2060,7 @@
 <circle cx="424.1889763779528" cy="1071.3700787401576" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="433.1889763779528" y1="1068.3700787401576" x2="439.1889763779528" y2="1074.3700787401576" stroke="black" stroke-width="2"/>
 <line x1="433.1889763779528" y1="1074.3700787401576" x2="439.1889763779528" y2="1068.3700787401576" stroke="black" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="1059.3700787401576" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="1068.3700787401576" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">250</text>
 <rect x="408.1889763779528" y="1039.3700787401576" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="1041.3700787401576" x2="566.2519685039371" y2="1077.3700787401576" stroke="black" />
@@ -1947,6 +2076,7 @@
 <line x1="581.2519685039371" y1="1056.3700787401576" x2="587.2519685039371" y2="1062.3700787401576" stroke="black" stroke-width="2"/>
 <line x1="581.2519685039371" y1="1062.3700787401576" x2="587.2519685039371" y2="1056.3700787401576" stroke="black" stroke-width="2"/>
 <circle cx="584.2519685039371" cy="1071.3700787401576" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="1059.3700787401576" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="1068.3700787401576" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">251</text>
 <rect x="544.2519685039371" y="1039.3700787401576" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="1082.9448818897638" x2="22.0" y2="1118.9448818897638" stroke="black" />
@@ -1962,6 +2092,7 @@
 <line x1="25.0" y1="1097.9448818897638" x2="31.0" y2="1103.9448818897638" stroke="black" stroke-width="2"/>
 <line x1="25.0" y1="1103.9448818897638" x2="31.0" y2="1097.9448818897638" stroke="black" stroke-width="2"/>
 <circle cx="40.0" cy="1112.9448818897638" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="68.0" cy="1100.9448818897638" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="1109.9448818897638" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">252</text>
 <rect x="0.0" y="1080.9448818897638" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="1082.9448818897638" x2="158.06299212598427" y2="1118.9448818897638" stroke="black" />
@@ -1977,6 +2108,7 @@
 <circle cx="176.06299212598427" cy="1100.9448818897638" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="173.06299212598427" y1="1109.9448818897638" x2="179.06299212598427" y2="1115.9448818897638" stroke="black" stroke-width="2"/>
 <line x1="173.06299212598427" y1="1115.9448818897638" x2="179.06299212598427" y2="1109.9448818897638" stroke="black" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="1100.9448818897638" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="1109.9448818897638" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">253</text>
 <rect x="136.06299212598427" y="1080.9448818897638" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="1082.9448818897638" x2="294.12598425196853" y2="1118.9448818897638" stroke="black" />
@@ -1992,6 +2124,7 @@
 <line x1="285.12598425196853" y1="1103.9448818897638" x2="291.12598425196853" y2="1097.9448818897638" stroke="black" stroke-width="2"/>
 <circle cx="300.12598425196853" cy="1100.9448818897638" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="312.12598425196853" cy="1112.9448818897638" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="1100.9448818897638" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="1109.9448818897638" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">254</text>
 <rect x="272.12598425196853" y="1080.9448818897638" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="1082.9448818897638" x2="430.1889763779528" y2="1118.9448818897638" stroke="black" />
@@ -2007,6 +2140,7 @@
 <circle cx="448.1889763779528" cy="1100.9448818897638" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="433.1889763779528" y1="1109.9448818897638" x2="439.1889763779528" y2="1115.9448818897638" stroke="black" stroke-width="2"/>
 <line x1="433.1889763779528" y1="1115.9448818897638" x2="439.1889763779528" y2="1109.9448818897638" stroke="black" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="1100.9448818897638" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="1109.9448818897638" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">255</text>
 <rect x="408.1889763779528" y="1080.9448818897638" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="1082.9448818897638" x2="566.2519685039371" y2="1118.9448818897638" stroke="black" />
@@ -2022,6 +2156,7 @@
 <circle cx="584.2519685039371" cy="1100.9448818897638" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="557.2519685039371" y1="1109.9448818897638" x2="563.2519685039371" y2="1115.9448818897638" stroke="black" stroke-width="2"/>
 <line x1="557.2519685039371" y1="1115.9448818897638" x2="563.2519685039371" y2="1109.9448818897638" stroke="black" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="1100.9448818897638" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="1109.9448818897638" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">256</text>
 <rect x="544.2519685039371" y="1080.9448818897638" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="1124.5196850393702" x2="22.0" y2="1160.5196850393702" stroke="black" />
@@ -2037,6 +2172,7 @@
 <circle cx="16.0" cy="1154.5196850393702" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="37.0" y1="1151.5196850393702" x2="43.0" y2="1157.5196850393702" stroke="black" stroke-width="2"/>
 <line x1="37.0" y1="1157.5196850393702" x2="43.0" y2="1151.5196850393702" stroke="black" stroke-width="2"/>
+<circle cx="68.0" cy="1142.5196850393702" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="1151.5196850393702" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">257</text>
 <rect x="0.0" y="1122.5196850393702" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="1124.5196850393702" x2="158.06299212598427" y2="1160.5196850393702" stroke="black" />
@@ -2052,6 +2188,7 @@
 <line x1="161.06299212598427" y1="1139.5196850393702" x2="167.06299212598427" y2="1145.5196850393702" stroke="black" stroke-width="2"/>
 <line x1="161.06299212598427" y1="1145.5196850393702" x2="167.06299212598427" y2="1139.5196850393702" stroke="black" stroke-width="2"/>
 <circle cx="152.06299212598427" cy="1154.5196850393702" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="1142.5196850393702" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="1151.5196850393702" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">258</text>
 <rect x="136.06299212598427" y="1122.5196850393702" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="1124.5196850393702" x2="294.12598425196853" y2="1160.5196850393702" stroke="black" />
@@ -2067,6 +2204,7 @@
 <line x1="297.12598425196853" y1="1139.5196850393702" x2="303.12598425196853" y2="1145.5196850393702" stroke="black" stroke-width="2"/>
 <line x1="297.12598425196853" y1="1145.5196850393702" x2="303.12598425196853" y2="1139.5196850393702" stroke="black" stroke-width="2"/>
 <circle cx="312.12598425196853" cy="1142.5196850393702" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="1142.5196850393702" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="1151.5196850393702" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">259</text>
 <rect x="272.12598425196853" y="1122.5196850393702" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="1124.5196850393702" x2="430.1889763779528" y2="1160.5196850393702" stroke="black" />
@@ -2082,6 +2220,7 @@
 <line x1="421.1889763779528" y1="1151.5196850393702" x2="427.1889763779528" y2="1157.5196850393702" stroke="black" stroke-width="2"/>
 <line x1="421.1889763779528" y1="1157.5196850393702" x2="427.1889763779528" y2="1151.5196850393702" stroke="black" stroke-width="2"/>
 <circle cx="448.1889763779528" cy="1154.5196850393702" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="1142.5196850393702" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="1151.5196850393702" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">260</text>
 <rect x="408.1889763779528" y="1122.5196850393702" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="1124.5196850393702" x2="566.2519685039371" y2="1160.5196850393702" stroke="black" />
@@ -2097,6 +2236,7 @@
 <line x1="557.2519685039371" y1="1145.5196850393702" x2="563.2519685039371" y2="1139.5196850393702" stroke="black" stroke-width="2"/>
 <circle cx="572.2519685039371" cy="1142.5196850393702" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="584.2519685039371" cy="1154.5196850393702" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="1142.5196850393702" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="1151.5196850393702" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">261</text>
 <rect x="544.2519685039371" y="1122.5196850393702" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="1166.0944881889766" x2="22.0" y2="1202.0944881889766" stroke="black" />
@@ -2112,6 +2252,7 @@
 <line x1="37.0" y1="1187.0944881889766" x2="43.0" y2="1181.0944881889766" stroke="black" stroke-width="2"/>
 <circle cx="16.0" cy="1196.0944881889766" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="40.0" cy="1196.0944881889766" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="68.0" cy="1184.0944881889766" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="1193.0944881889766" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">262</text>
 <rect x="0.0" y="1164.0944881889766" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="1166.0944881889766" x2="158.06299212598427" y2="1202.0944881889766" stroke="black" />
@@ -2127,6 +2268,7 @@
 <line x1="149.06299212598427" y1="1193.0944881889766" x2="155.06299212598427" y2="1199.0944881889766" stroke="black" stroke-width="2"/>
 <line x1="149.06299212598427" y1="1199.0944881889766" x2="155.06299212598427" y2="1193.0944881889766" stroke="black" stroke-width="2"/>
 <circle cx="176.06299212598427" cy="1196.0944881889766" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="1184.0944881889766" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="1193.0944881889766" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">263</text>
 <rect x="136.06299212598427" y="1164.0944881889766" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="1166.0944881889766" x2="294.12598425196853" y2="1202.0944881889766" stroke="black" />
@@ -2142,6 +2284,7 @@
 <line x1="309.12598425196853" y1="1181.0944881889766" x2="315.12598425196853" y2="1187.0944881889766" stroke="black" stroke-width="2"/>
 <line x1="309.12598425196853" y1="1187.0944881889766" x2="315.12598425196853" y2="1181.0944881889766" stroke="black" stroke-width="2"/>
 <circle cx="288.12598425196853" cy="1196.0944881889766" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="1184.0944881889766" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="1193.0944881889766" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">264</text>
 <rect x="272.12598425196853" y="1164.0944881889766" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="1166.0944881889766" x2="430.1889763779528" y2="1202.0944881889766" stroke="black" />
@@ -2157,6 +2300,7 @@
 <line x1="433.1889763779528" y1="1187.0944881889766" x2="439.1889763779528" y2="1181.0944881889766" stroke="black" stroke-width="2"/>
 <circle cx="448.1889763779528" cy="1184.0944881889766" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="436.1889763779528" cy="1196.0944881889766" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="1184.0944881889766" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="1193.0944881889766" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">265</text>
 <rect x="408.1889763779528" y="1164.0944881889766" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="1166.0944881889766" x2="566.2519685039371" y2="1202.0944881889766" stroke="black" />
@@ -2172,6 +2316,7 @@
 <line x1="557.2519685039371" y1="1199.0944881889766" x2="563.2519685039371" y2="1193.0944881889766" stroke="black" stroke-width="2"/>
 <line x1="581.2519685039371" y1="1193.0944881889766" x2="587.2519685039371" y2="1199.0944881889766" stroke="black" stroke-width="2"/>
 <line x1="581.2519685039371" y1="1199.0944881889766" x2="587.2519685039371" y2="1193.0944881889766" stroke="black" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="1184.0944881889766" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="1193.0944881889766" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">266</text>
 <rect x="544.2519685039371" y="1164.0944881889766" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="1207.6692913385828" x2="22.0" y2="1243.6692913385828" stroke="black" />
@@ -2187,6 +2332,7 @@
 <line x1="13.0" y1="1228.6692913385828" x2="19.0" y2="1222.6692913385828" stroke="black" stroke-width="2"/>
 <circle cx="28.0" cy="1237.6692913385828" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="40.0" cy="1237.6692913385828" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="68.0" cy="1225.6692913385828" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="1234.6692913385828" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">267</text>
 <rect x="0.0" y="1205.6692913385828" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="1207.6692913385828" x2="158.06299212598427" y2="1243.6692913385828" stroke="black" />
@@ -2202,6 +2348,7 @@
 <circle cx="164.06299212598427" cy="1225.6692913385828" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="161.06299212598427" y1="1234.6692913385828" x2="167.06299212598427" y2="1240.6692913385828" stroke="black" stroke-width="2"/>
 <line x1="161.06299212598427" y1="1240.6692913385828" x2="167.06299212598427" y2="1234.6692913385828" stroke="black" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="1225.6692913385828" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="1234.6692913385828" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">268</text>
 <rect x="136.06299212598427" y="1205.6692913385828" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="1207.6692913385828" x2="294.12598425196853" y2="1243.6692913385828" stroke="black" />
@@ -2217,6 +2364,7 @@
 <line x1="297.12598425196853" y1="1228.6692913385828" x2="303.12598425196853" y2="1222.6692913385828" stroke="black" stroke-width="2"/>
 <circle cx="312.12598425196853" cy="1225.6692913385828" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="288.12598425196853" cy="1237.6692913385828" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="1225.6692913385828" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="1234.6692913385828" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">269</text>
 <rect x="272.12598425196853" y="1205.6692913385828" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="1207.6692913385828" x2="430.1889763779528" y2="1243.6692913385828" stroke="black" />
@@ -2232,6 +2380,7 @@
 <line x1="445.1889763779528" y1="1228.6692913385828" x2="451.1889763779528" y2="1222.6692913385828" stroke="black" stroke-width="2"/>
 <circle cx="424.1889763779528" cy="1237.6692913385828" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="448.1889763779528" cy="1237.6692913385828" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="1225.6692913385828" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="1234.6692913385828" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">270</text>
 <rect x="408.1889763779528" y="1205.6692913385828" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="1207.6692913385828" x2="566.2519685039371" y2="1243.6692913385828" stroke="black" />
@@ -2247,6 +2396,7 @@
 <line x1="581.2519685039371" y1="1228.6692913385828" x2="587.2519685039371" y2="1222.6692913385828" stroke="black" stroke-width="2"/>
 <circle cx="560.2519685039371" cy="1237.6692913385828" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="584.2519685039371" cy="1237.6692913385828" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="1225.6692913385828" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="1234.6692913385828" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">271</text>
 <rect x="544.2519685039371" y="1205.6692913385828" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="1249.2440944881891" x2="22.0" y2="1285.2440944881891" stroke="black" />
@@ -2262,6 +2412,7 @@
 <circle cx="28.0" cy="1267.2440944881891" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="13.0" y1="1276.2440944881891" x2="19.0" y2="1282.2440944881891" stroke="black" stroke-width="2"/>
 <line x1="13.0" y1="1282.2440944881891" x2="19.0" y2="1276.2440944881891" stroke="black" stroke-width="2"/>
+<circle cx="68.0" cy="1267.2440944881891" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="1276.2440944881891" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">272</text>
 <rect x="0.0" y="1247.2440944881891" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="1249.2440944881891" x2="158.06299212598427" y2="1285.2440944881891" stroke="black" />
@@ -2277,6 +2428,7 @@
 <line x1="149.06299212598427" y1="1282.2440944881891" x2="155.06299212598427" y2="1276.2440944881891" stroke="black" stroke-width="2"/>
 <line x1="161.06299212598427" y1="1276.2440944881891" x2="167.06299212598427" y2="1282.2440944881891" stroke="black" stroke-width="2"/>
 <line x1="161.06299212598427" y1="1282.2440944881891" x2="167.06299212598427" y2="1276.2440944881891" stroke="black" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="1267.2440944881891" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="1276.2440944881891" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">273</text>
 <rect x="136.06299212598427" y="1247.2440944881891" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="1249.2440944881891" x2="294.12598425196853" y2="1285.2440944881891" stroke="black" />
@@ -2292,6 +2444,7 @@
 <line x1="297.12598425196853" y1="1276.2440944881891" x2="303.12598425196853" y2="1282.2440944881891" stroke="black" stroke-width="2"/>
 <line x1="297.12598425196853" y1="1282.2440944881891" x2="303.12598425196853" y2="1276.2440944881891" stroke="black" stroke-width="2"/>
 <circle cx="312.12598425196853" cy="1279.2440944881891" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="1267.2440944881891" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="1276.2440944881891" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">274</text>
 <rect x="272.12598425196853" y="1247.2440944881891" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="1249.2440944881891" x2="430.1889763779528" y2="1285.2440944881891" stroke="black" />
@@ -2307,6 +2460,7 @@
 <line x1="433.1889763779528" y1="1276.2440944881891" x2="439.1889763779528" y2="1282.2440944881891" stroke="black" stroke-width="2"/>
 <line x1="433.1889763779528" y1="1282.2440944881891" x2="439.1889763779528" y2="1276.2440944881891" stroke="black" stroke-width="2"/>
 <circle cx="448.1889763779528" cy="1279.2440944881891" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="1267.2440944881891" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="1276.2440944881891" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">275</text>
 <rect x="408.1889763779528" y="1247.2440944881891" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="1249.2440944881891" x2="566.2519685039371" y2="1285.2440944881891" stroke="black" />
@@ -2322,6 +2476,7 @@
 <line x1="569.2519685039371" y1="1276.2440944881891" x2="575.2519685039371" y2="1282.2440944881891" stroke="black" stroke-width="2"/>
 <line x1="569.2519685039371" y1="1282.2440944881891" x2="575.2519685039371" y2="1276.2440944881891" stroke="black" stroke-width="2"/>
 <circle cx="584.2519685039371" cy="1279.2440944881891" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="1267.2440944881891" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="1276.2440944881891" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">276</text>
 <rect x="544.2519685039371" y="1247.2440944881891" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="1290.8188976377953" x2="22.0" y2="1326.8188976377953" stroke="black" />
@@ -2337,6 +2492,7 @@
 <line x1="25.0" y1="1311.8188976377953" x2="31.0" y2="1305.8188976377953" stroke="black" stroke-width="2"/>
 <circle cx="16.0" cy="1320.8188976377953" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="28.0" cy="1320.8188976377953" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="68.0" cy="1308.8188976377953" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="1317.8188976377953" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">277</text>
 <rect x="0.0" y="1288.8188976377953" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="1290.8188976377953" x2="158.06299212598427" y2="1326.8188976377953" stroke="black" />
@@ -2352,6 +2508,7 @@
 <line x1="161.06299212598427" y1="1317.8188976377953" x2="167.06299212598427" y2="1323.8188976377953" stroke="black" stroke-width="2"/>
 <line x1="161.06299212598427" y1="1323.8188976377953" x2="167.06299212598427" y2="1317.8188976377953" stroke="black" stroke-width="2"/>
 <circle cx="176.06299212598427" cy="1320.8188976377953" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="1308.8188976377953" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="1317.8188976377953" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">278</text>
 <rect x="136.06299212598427" y="1288.8188976377953" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="1290.8188976377953" x2="294.12598425196853" y2="1326.8188976377953" stroke="black" />
@@ -2367,6 +2524,7 @@
 <line x1="297.12598425196853" y1="1317.8188976377953" x2="303.12598425196853" y2="1323.8188976377953" stroke="black" stroke-width="2"/>
 <line x1="297.12598425196853" y1="1323.8188976377953" x2="303.12598425196853" y2="1317.8188976377953" stroke="black" stroke-width="2"/>
 <circle cx="312.12598425196853" cy="1320.8188976377953" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="1308.8188976377953" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="1317.8188976377953" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">279</text>
 <rect x="272.12598425196853" y="1288.8188976377953" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="1290.8188976377953" x2="430.1889763779528" y2="1326.8188976377953" stroke="black" />
@@ -2382,6 +2540,7 @@
 <circle cx="436.1889763779528" cy="1320.8188976377953" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="445.1889763779528" y1="1317.8188976377953" x2="451.1889763779528" y2="1323.8188976377953" stroke="black" stroke-width="2"/>
 <line x1="445.1889763779528" y1="1323.8188976377953" x2="451.1889763779528" y2="1317.8188976377953" stroke="black" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="1308.8188976377953" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="1317.8188976377953" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">280</text>
 <rect x="408.1889763779528" y="1288.8188976377953" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="1290.8188976377953" x2="566.2519685039371" y2="1326.8188976377953" stroke="black" />
@@ -2397,6 +2556,7 @@
 <line x1="581.2519685039371" y1="1305.8188976377953" x2="587.2519685039371" y2="1311.8188976377953" stroke="black" stroke-width="2"/>
 <line x1="581.2519685039371" y1="1311.8188976377953" x2="587.2519685039371" y2="1305.8188976377953" stroke="black" stroke-width="2"/>
 <circle cx="584.2519685039371" cy="1320.8188976377953" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="1308.8188976377953" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="1317.8188976377953" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">281</text>
 <rect x="544.2519685039371" y="1288.8188976377953" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="1332.3937007874017" x2="22.0" y2="1368.3937007874017" stroke="black" />
@@ -2412,6 +2572,7 @@
 <circle cx="28.0" cy="1362.3937007874017" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="37.0" y1="1359.3937007874017" x2="43.0" y2="1365.3937007874017" stroke="black" stroke-width="2"/>
 <line x1="37.0" y1="1365.3937007874017" x2="43.0" y2="1359.3937007874017" stroke="black" stroke-width="2"/>
+<circle cx="68.0" cy="1350.3937007874017" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="1359.3937007874017" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">282</text>
 <rect x="0.0" y="1330.3937007874017" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="1332.3937007874017" x2="158.06299212598427" y2="1368.3937007874017" stroke="black" />
@@ -2427,6 +2588,7 @@
 <line x1="149.06299212598427" y1="1365.3937007874017" x2="155.06299212598427" y2="1359.3937007874017" stroke="black" stroke-width="2"/>
 <line x1="173.06299212598427" y1="1359.3937007874017" x2="179.06299212598427" y2="1365.3937007874017" stroke="black" stroke-width="2"/>
 <line x1="173.06299212598427" y1="1365.3937007874017" x2="179.06299212598427" y2="1359.3937007874017" stroke="black" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="1350.3937007874017" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="1359.3937007874017" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">283</text>
 <rect x="136.06299212598427" y="1330.3937007874017" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="1332.3937007874017" x2="294.12598425196853" y2="1368.3937007874017" stroke="black" />
@@ -2442,6 +2604,7 @@
 <circle cx="288.12598425196853" cy="1362.3937007874017" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="297.12598425196853" y1="1359.3937007874017" x2="303.12598425196853" y2="1365.3937007874017" stroke="black" stroke-width="2"/>
 <line x1="297.12598425196853" y1="1365.3937007874017" x2="303.12598425196853" y2="1359.3937007874017" stroke="black" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="1350.3937007874017" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="1359.3937007874017" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">284</text>
 <rect x="272.12598425196853" y="1330.3937007874017" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="1332.3937007874017" x2="430.1889763779528" y2="1368.3937007874017" stroke="black" />
@@ -2457,6 +2620,7 @@
 <circle cx="436.1889763779528" cy="1350.3937007874017" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="448.1889763779528" cy="1350.3937007874017" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="448.1889763779528" cy="1362.3937007874017" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="1350.3937007874017" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="1359.3937007874017" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">285</text>
 <rect x="408.1889763779528" y="1330.3937007874017" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="1332.3937007874017" x2="566.2519685039371" y2="1368.3937007874017" stroke="black" />
@@ -2472,6 +2636,7 @@
 <line x1="581.2519685039371" y1="1353.3937007874017" x2="587.2519685039371" y2="1347.3937007874017" stroke="black" stroke-width="2"/>
 <circle cx="572.2519685039371" cy="1362.3937007874017" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="584.2519685039371" cy="1362.3937007874017" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="1350.3937007874017" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="1359.3937007874017" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">286</text>
 <rect x="544.2519685039371" y="1330.3937007874017" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="1373.968503937008" x2="22.0" y2="1409.968503937008" stroke="black" />
@@ -2487,6 +2652,7 @@
 <line x1="13.0" y1="1400.968503937008" x2="19.0" y2="1406.968503937008" stroke="black" stroke-width="2"/>
 <line x1="13.0" y1="1406.968503937008" x2="19.0" y2="1400.968503937008" stroke="black" stroke-width="2"/>
 <circle cx="28.0" cy="1403.968503937008" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="68.0" cy="1391.968503937008" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="1400.968503937008" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">287</text>
 <rect x="0.0" y="1371.968503937008" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="1373.968503937008" x2="158.06299212598427" y2="1409.968503937008" stroke="black" />
@@ -2502,6 +2668,7 @@
 <line x1="173.06299212598427" y1="1388.968503937008" x2="179.06299212598427" y2="1394.968503937008" stroke="black" stroke-width="2"/>
 <line x1="173.06299212598427" y1="1394.968503937008" x2="179.06299212598427" y2="1388.968503937008" stroke="black" stroke-width="2"/>
 <circle cx="164.06299212598427" cy="1403.968503937008" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="1391.968503937008" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="1400.968503937008" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">288</text>
 <rect x="136.06299212598427" y="1371.968503937008" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="1373.968503937008" x2="294.12598425196853" y2="1409.968503937008" stroke="black" />
@@ -2517,6 +2684,7 @@
 <circle cx="288.12598425196853" cy="1403.968503937008" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="309.12598425196853" y1="1400.968503937008" x2="315.12598425196853" y2="1406.968503937008" stroke="black" stroke-width="2"/>
 <line x1="309.12598425196853" y1="1406.968503937008" x2="315.12598425196853" y2="1400.968503937008" stroke="black" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="1391.968503937008" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="1400.968503937008" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">289</text>
 <rect x="272.12598425196853" y="1371.968503937008" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="1373.968503937008" x2="430.1889763779528" y2="1409.968503937008" stroke="black" />
@@ -2532,6 +2700,7 @@
 <line x1="433.1889763779528" y1="1394.968503937008" x2="439.1889763779528" y2="1388.968503937008" stroke="black" stroke-width="2"/>
 <circle cx="448.1889763779528" cy="1391.968503937008" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="448.1889763779528" cy="1403.968503937008" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="1391.968503937008" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="1400.968503937008" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">290</text>
 <rect x="408.1889763779528" y="1371.968503937008" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="1373.968503937008" x2="566.2519685039371" y2="1409.968503937008" stroke="black" />
@@ -2547,6 +2716,7 @@
 <line x1="581.2519685039371" y1="1394.968503937008" x2="587.2519685039371" y2="1388.968503937008" stroke="black" stroke-width="2"/>
 <line x1="581.2519685039371" y1="1400.968503937008" x2="587.2519685039371" y2="1406.968503937008" stroke="black" stroke-width="2"/>
 <line x1="581.2519685039371" y1="1406.968503937008" x2="587.2519685039371" y2="1400.968503937008" stroke="black" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="1391.968503937008" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="1400.968503937008" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">291</text>
 <rect x="544.2519685039371" y="1371.968503937008" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="1415.5433070866143" x2="22.0" y2="1451.5433070866143" stroke="black" />
@@ -2562,6 +2732,7 @@
 <circle cx="40.0" cy="1433.5433070866143" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="25.0" y1="1442.5433070866143" x2="31.0" y2="1448.5433070866143" stroke="black" stroke-width="2"/>
 <line x1="25.0" y1="1448.5433070866143" x2="31.0" y2="1442.5433070866143" stroke="black" stroke-width="2"/>
+<circle cx="68.0" cy="1433.5433070866143" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="1442.5433070866143" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">292</text>
 <rect x="0.0" y="1413.5433070866143" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="1415.5433070866143" x2="158.06299212598427" y2="1451.5433070866143" stroke="black" />
@@ -2577,6 +2748,7 @@
 <circle cx="152.06299212598427" cy="1445.5433070866143" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="161.06299212598427" y1="1442.5433070866143" x2="167.06299212598427" y2="1448.5433070866143" stroke="black" stroke-width="2"/>
 <line x1="161.06299212598427" y1="1448.5433070866143" x2="167.06299212598427" y2="1442.5433070866143" stroke="black" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="1433.5433070866143" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="1442.5433070866143" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">293</text>
 <rect x="136.06299212598427" y="1413.5433070866143" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="1415.5433070866143" x2="294.12598425196853" y2="1451.5433070866143" stroke="black" />
@@ -2592,6 +2764,7 @@
 <line x1="285.12598425196853" y1="1442.5433070866143" x2="291.12598425196853" y2="1448.5433070866143" stroke="black" stroke-width="2"/>
 <line x1="285.12598425196853" y1="1448.5433070866143" x2="291.12598425196853" y2="1442.5433070866143" stroke="black" stroke-width="2"/>
 <circle cx="312.12598425196853" cy="1445.5433070866143" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="1433.5433070866143" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="1442.5433070866143" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">294</text>
 <rect x="272.12598425196853" y="1413.5433070866143" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="1415.5433070866143" x2="430.1889763779528" y2="1451.5433070866143" stroke="black" />
@@ -2607,6 +2780,7 @@
 <line x1="445.1889763779528" y1="1430.5433070866143" x2="451.1889763779528" y2="1436.5433070866143" stroke="black" stroke-width="2"/>
 <line x1="445.1889763779528" y1="1436.5433070866143" x2="451.1889763779528" y2="1430.5433070866143" stroke="black" stroke-width="2"/>
 <circle cx="448.1889763779528" cy="1445.5433070866143" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="1433.5433070866143" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="1442.5433070866143" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">295</text>
 <rect x="408.1889763779528" y="1413.5433070866143" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="1415.5433070866143" x2="566.2519685039371" y2="1451.5433070866143" stroke="black" />
@@ -2622,6 +2796,7 @@
 <circle cx="572.2519685039371" cy="1433.5433070866143" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="569.2519685039371" y1="1442.5433070866143" x2="575.2519685039371" y2="1448.5433070866143" stroke="black" stroke-width="2"/>
 <line x1="569.2519685039371" y1="1448.5433070866143" x2="575.2519685039371" y2="1442.5433070866143" stroke="black" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="1433.5433070866143" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="1442.5433070866143" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">296</text>
 <rect x="544.2519685039371" y="1413.5433070866143" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="1457.1181102362207" x2="22.0" y2="1493.1181102362207" stroke="black" />
@@ -2637,6 +2812,7 @@
 <circle cx="16.0" cy="1487.1181102362207" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="37.0" y1="1484.1181102362207" x2="43.0" y2="1490.1181102362207" stroke="black" stroke-width="2"/>
 <line x1="37.0" y1="1490.1181102362207" x2="43.0" y2="1484.1181102362207" stroke="black" stroke-width="2"/>
+<circle cx="68.0" cy="1475.1181102362207" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="1484.1181102362207" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">297</text>
 <rect x="0.0" y="1455.1181102362207" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="1457.1181102362207" x2="158.06299212598427" y2="1493.1181102362207" stroke="black" />
@@ -2652,6 +2828,7 @@
 <line x1="149.06299212598427" y1="1478.1181102362207" x2="155.06299212598427" y2="1472.1181102362207" stroke="black" stroke-width="2"/>
 <circle cx="152.06299212598427" cy="1487.1181102362207" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="176.06299212598427" cy="1487.1181102362207" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="1475.1181102362207" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="1484.1181102362207" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">298</text>
 <rect x="136.06299212598427" y="1455.1181102362207" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="1457.1181102362207" x2="294.12598425196853" y2="1493.1181102362207" stroke="black" />
@@ -2667,6 +2844,7 @@
 <line x1="309.12598425196853" y1="1478.1181102362207" x2="315.12598425196853" y2="1472.1181102362207" stroke="black" stroke-width="2"/>
 <line x1="297.12598425196853" y1="1484.1181102362207" x2="303.12598425196853" y2="1490.1181102362207" stroke="black" stroke-width="2"/>
 <line x1="297.12598425196853" y1="1490.1181102362207" x2="303.12598425196853" y2="1484.1181102362207" stroke="black" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="1475.1181102362207" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="1484.1181102362207" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">299</text>
 <rect x="272.12598425196853" y="1455.1181102362207" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="430.1889763779528" y1="1457.1181102362207" x2="430.1889763779528" y2="1493.1181102362207" stroke="black" />
@@ -2682,6 +2860,7 @@
 <line x1="433.1889763779528" y1="1484.1181102362207" x2="439.1889763779528" y2="1490.1181102362207" stroke="black" stroke-width="2"/>
 <line x1="433.1889763779528" y1="1490.1181102362207" x2="439.1889763779528" y2="1484.1181102362207" stroke="black" stroke-width="2"/>
 <circle cx="448.1889763779528" cy="1487.1181102362207" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="476.1889763779528" cy="1475.1181102362207" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="494.1889763779528" y="1484.1181102362207" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">300</text>
 <rect x="408.1889763779528" y="1455.1181102362207" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="566.2519685039371" y1="1457.1181102362207" x2="566.2519685039371" y2="1493.1181102362207" stroke="black" />
@@ -2697,6 +2876,7 @@
 <line x1="557.2519685039371" y1="1478.1181102362207" x2="563.2519685039371" y2="1472.1181102362207" stroke="black" stroke-width="2"/>
 <circle cx="584.2519685039371" cy="1475.1181102362207" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <circle cx="560.2519685039371" cy="1487.1181102362207" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="612.2519685039371" cy="1475.1181102362207" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="630.2519685039371" y="1484.1181102362207" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">301</text>
 <rect x="544.2519685039371" y="1455.1181102362207" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="22.0" y1="1498.6929133858268" x2="22.0" y2="1534.6929133858268" stroke="black" />
@@ -2712,6 +2892,7 @@
 <circle cx="40.0" cy="1516.6929133858268" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="13.0" y1="1525.6929133858268" x2="19.0" y2="1531.6929133858268" stroke="black" stroke-width="2"/>
 <line x1="13.0" y1="1531.6929133858268" x2="19.0" y2="1525.6929133858268" stroke="black" stroke-width="2"/>
+<circle cx="68.0" cy="1516.6929133858268" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="86.0" y="1525.6929133858268" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">302</text>
 <rect x="0.0" y="1496.6929133858268" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="158.06299212598427" y1="1498.6929133858268" x2="158.06299212598427" y2="1534.6929133858268" stroke="black" />
@@ -2727,6 +2908,7 @@
 <circle cx="164.06299212598427" cy="1516.6929133858268" r="3.0" stroke="black" fill="none" stroke-width="2"/>
 <line x1="161.06299212598427" y1="1525.6929133858268" x2="167.06299212598427" y2="1531.6929133858268" stroke="black" stroke-width="2"/>
 <line x1="161.06299212598427" y1="1531.6929133858268" x2="167.06299212598427" y2="1525.6929133858268" stroke="black" stroke-width="2"/>
+<circle cx="204.06299212598427" cy="1516.6929133858268" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="222.06299212598427" y="1525.6929133858268" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">303</text>
 <rect x="136.06299212598427" y="1496.6929133858268" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 <line x1="294.12598425196853" y1="1498.6929133858268" x2="294.12598425196853" y2="1534.6929133858268" stroke="black" />
@@ -2742,6 +2924,7 @@
 <line x1="297.12598425196853" y1="1519.6929133858268" x2="303.12598425196853" y2="1513.6929133858268" stroke="black" stroke-width="2"/>
 <line x1="309.12598425196853" y1="1513.6929133858268" x2="315.12598425196853" y2="1519.6929133858268" stroke="black" stroke-width="2"/>
 <line x1="309.12598425196853" y1="1519.6929133858268" x2="315.12598425196853" y2="1513.6929133858268" stroke="black" stroke-width="2"/>
+<circle cx="340.12598425196853" cy="1516.6929133858268" r="6.0" stroke="black" fill="none" stroke-width="2"/>
 <text x="358.12598425196853" y="1525.6929133858268" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">304</text>
 <rect x="272.12598425196853" y="1496.6929133858268" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 </svg>
