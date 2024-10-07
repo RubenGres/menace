@@ -24,15 +24,11 @@ let menace = document.getElementById("menace")
 
 let matchboxes = []
 
-fetch('all_states.json')
-    .then((response) => response.json())
-    .then((json) => {
 
-        all_states_dict = json;
+all_states_dict = JSON.parse(jsonString);
 
-        setup_menace();
-        setup_board();
-    });
+setup_menace();
+setup_board();
 
 function setup_board() {
     // add event listeners for each cell of the board
@@ -79,6 +75,11 @@ function setup_menace() {
         let row = document.createElement("tr")
         for(let j=0; j < 8; j++) {
             let menace_box = document.createElement("td")
+
+            menace_box.addEventListener('click', function() {
+                document.getElementById('displayBackdrop').style.display = 'flex'
+            });
+            
             let menace_box_number = i*8+(j+1)
             menace_box.id = "menace_" + menace_box_number
             
