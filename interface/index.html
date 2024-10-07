@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <link href="style.css" rel="stylesheet">
+    </head>
+    
+    <body>
+          
+        <div class="board_section">
+            <div class="board_wrapper">
+                <table id="input_board">
+                    <tr>
+                        <td></td> <td></td> <td></td>
+                    </tr>
+                    <tr>
+                        <td></td> <td></td> <td></td>
+                    </tr>
+                    <tr>
+                        <td></td> <td></td> <td></td>
+                    </tr>
+                </table>
+            </div>
+            
+            <h2>Boite suivante:</h2>
+            <div class="box_info">
+                <table id="next_box">
+                    <tr>
+                        <td id="next_box_hint">
+                            <table><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>
+                        </td>
+
+                        <td id="next_box_number">1</td>
+                    </tr>
+                </table>
+            </div>
+
+            <button onclick="reset()">Reset</button>
+        </div>
+
+        <div class="menace_section">
+            <table id="menace">
+            </table>
+        </div>
+    </body>
+    
+    <script src="menace_helper.js"></script>
+</html>
