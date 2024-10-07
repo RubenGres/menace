@@ -1,12 +1,18 @@
-#input_board {
-    background-color: grey;
+* {
+    margin: 0;
+    padding: 0;
 }
 
-body {
+.page_content {
     display: flex;
     flex-direction: row;
     justify-content: center;
     font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+}
+
+#input_board {
+    background-color: grey;
 }
 
 #input_board tr td {    
@@ -92,10 +98,10 @@ body {
 #next_box_hint {
     font-size: 1.3em;
     margin: auto;
-    display: flex; /* Enable flexbox */
-    justify-content: center; /* Center horizontally */
-    align-items: center; /* Center vertically */
-    height: 100%; /* Ensure it takes up the full height of the parent td */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
 }
 
 #next_box_hint tr td{
@@ -111,4 +117,80 @@ button {
 .svgicon {
     width: 90%;
     height: 90%;
+}
+
+/* statistics */
+.display_backdrop {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: none;
+}
+
+.display_backdrop:hover {
+    cursor: pointer;
+}
+
+.statsModal {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    border-radius: 8px;
+    padding: 0 30px 30px 30px;
+}
+
+.figures {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 100%;
+}
+
+.figure {
+    width: 200px;
+    height: 200px;
+
+    margin: auto 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.figures .donutDisplay {
+    height: 200px;
+}
+
+.figures .lossDisplay {
+    height: 400px;
+    width: 800px;
+}
+
+.figures:hover {
+    cursor: initial;
+}
+
+.modal-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.modal-header h2 {
+    margin: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.modal-header button {
+    background: none;
+    border: none;
+    font-size: 3em;
+}
+
+.modal-header button:hover {
+    cursor: pointer;
 }
