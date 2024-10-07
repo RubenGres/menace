@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="70">
+<line x1="30" y1="20" x2="30" y2="50" stroke="black" />
+<line x1="40" y1="20" x2="40" y2="50" stroke="black" />
+<line x1="20" y1="30" x2="50" y2="30" stroke="black" />
+<line x1="20" y1="40" x2="50" y2="40" stroke="black" />
+<text x="60" y="40.0" font-size="25" fill="black">0</text>
+</svg>
