@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="544.2519685039371" height="41.5748031496063">
+<svg xmlns="http://www.w3.org/2000/svg" width="680.3149606299213" height="41.5748031496063">
 <line x1="22.0" y1="2.0" x2="22.0" y2="38.0" stroke="black" />
 <line x1="34.0" y1="2.0" x2="34.0" y2="38.0" stroke="black" />
 <line x1="10.0" y1="14.0" x2="46.0" y2="14.0" stroke="black" />
 <line x1="10.0" y1="26.0" x2="46.0" y2="26.0" stroke="black" />
-<text x="86.0" y="29.0" font-size="27" fill="black">1</text>
+<text x="86.0" y="29.0" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">1</text>
 <rect x="0.0" y="0.0" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 </svg>
