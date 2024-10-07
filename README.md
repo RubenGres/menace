@@ -11,7 +11,6 @@ This repository compile my implementation, you will find:
 
 TODO end product photo
 
-
 ## Video presentation
 TODO
 
