@@ -41,7 +41,7 @@ Move count 1: 12 boards
 
 ## Dimensions
 
-The main box is (311 x 472 x 46) mm, it contains vertical and horizontals planks to provide structure and hold the 304 mathboxes in place. There is two boxes between each vertical plank and five between each horizontal one. The whole structure is held together using box joints.
+The main box is (311 x 472 x 65) mm, it contains vertical and horizontals planks to provide structure and hold the 304 mathboxes in place. There is two boxes between each vertical plank and five between each horizontal one. The whole structure is held together using box joints.
 
 We also laser cut a tic tac toe board and pieces to let the participants play the game physically.
 
@@ -68,8 +68,8 @@ We also laser cut a tic tac toe board and pieces to let the participants play th
 
 ### Inner structure (3mm planks)
 
-3x vertical planks: 301mm x 3mm  
-7x horizontal plans: 461.8mm x 3mm
+3x vertical planks: 301mm x 65mm  
+7x horizontal plans: 461.8mm x 65mm
 
 ## Web interface
 

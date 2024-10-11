@@ -1,87 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="297mm"
-   height="210mm"
-   version="1.1"
-   id="svg4"
-   sodipodi:docname="move_0.svg"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs4" />
-  <sodipodi:namedview
-     id="namedview4"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.38107351"
-     inkscape:cx="431.67525"
-     inkscape:cy="85.285383"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg4"
-     inkscape:document-units="mm" />
-  <line
-     x1="22"
-     y1="2"
-     x2="22"
-     y2="38"
-     stroke="#000000"
-     id="line1" />
-  <line
-     x1="34"
-     y1="2"
-     x2="34"
-     y2="38"
-     stroke="#000000"
-     id="line2" />
-  <line
-     x1="10"
-     y1="14"
-     x2="46"
-     y2="14"
-     stroke="#000000"
-     id="line3" />
-  <line
-     x1="10"
-     y1="26"
-     x2="46"
-     y2="26"
-     stroke="#000000"
-     id="line4" />
-  <circle
-     cx="68"
-     cy="20"
-     r="6"
-     stroke="#000000"
-     fill="none"
-     stroke-width="2"
-     id="circle4" />
-  <text
-     x="86"
-     y="29"
-     font-size="27px"
-     fill="#000000"
-     font-family="Consolas, 'Courier New', monospace"
-     id="text4">1</text>
-  <rect
-     x="0"
-     y="0"
-     width="136"
-     height="41"
-     stroke="#ff0000"
-     fill="none"
-     rx="10"
-     ry="10"
-     id="rect4" />
+<svg xmlns="http://www.w3.org/2000/svg" width="680.3149606299213" height="41.5748031496063">
+<line x1="22.0" y1="2.0" x2="22.0" y2="38.0" stroke="black" />
+<line x1="34.0" y1="2.0" x2="34.0" y2="38.0" stroke="black" />
+<line x1="10.0" y1="14.0" x2="46.0" y2="14.0" stroke="black" />
+<line x1="10.0" y1="26.0" x2="46.0" y2="26.0" stroke="black" />
+<circle cx="68.0" cy="20.0" r="6.0" stroke="black" fill="none" stroke-width="2"/>
+<text x="86.0" y="29.0" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">1</text>
+<rect x="0.0" y="0.0" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
 </svg>

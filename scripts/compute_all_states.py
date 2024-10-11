@@ -48,8 +48,11 @@ def remove_symmetries(board_list):
 
     for board in board_list:
         symmetries = generate_symmetries(board)
-        if not any(symmetry in visited_boards for symmetry in symmetries):
-            unique_boards.append(board)
+        
+        chosen_board = max(symmetries)
+        
+        if chosen_board not in visited_boards:
+            unique_boards.append(chosen_board)
             visited_boards.update(symmetries)
 
     return unique_boards
@@ -112,6 +115,11 @@ print(f"no_last_move states: {len(no_last_move_unique)}")
 # # Divide all boards by move count
 
 # %%
+all_states = [x[::-1] for x in no_last_move_unique]
+all_states.sort()
+all_states.reverse()
+
+# %%
 from collections import defaultdict
 
 def split_by_moves(board_list):
@@ -121,7 +129,7 @@ def split_by_moves(board_list):
         split_dict[move_count].append(board)
     return split_dict
 
-split_boards = split_by_moves(no_last_move_unique)
+split_boards = split_by_moves(all_states)
 
 for move_count, boards in split_boards.items():
     print(f"Move count {move_count}: {len(boards)} boards")
