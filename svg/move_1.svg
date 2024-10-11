@@ -1,122 +1,958 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680.3149606299213" height="124.7244094488189">
-<line x1="22.0" y1="2.0" x2="22.0" y2="38.0" stroke="black" />
-<line x1="34.0" y1="2.0" x2="34.0" y2="38.0" stroke="black" />
-<line x1="10.0" y1="14.0" x2="46.0" y2="14.0" stroke="black" />
-<line x1="10.0" y1="26.0" x2="46.0" y2="26.0" stroke="black" />
-<line x1="13.0" y1="5.0" x2="19.0" y2="11.0" stroke="black" stroke-width="2"/>
-<line x1="13.0" y1="11.0" x2="19.0" y2="5.0" stroke="black" stroke-width="2"/>
-<circle cx="28.0" cy="20.0" r="3.0" stroke="black" fill="none" stroke-width="2"/>
-<circle cx="68.0" cy="20.0" r="6.0" stroke="black" fill="none" stroke-width="2"/>
-<text x="86.0" y="29.0" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">2</text>
-<rect x="0.0" y="0.0" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
-<line x1="158.06299212598427" y1="2.0" x2="158.06299212598427" y2="38.0" stroke="black" />
-<line x1="170.06299212598427" y1="2.0" x2="170.06299212598427" y2="38.0" stroke="black" />
-<line x1="146.06299212598427" y1="14.0" x2="182.06299212598427" y2="14.0" stroke="black" />
-<line x1="146.06299212598427" y1="26.0" x2="182.06299212598427" y2="26.0" stroke="black" />
-<circle cx="152.06299212598427" cy="8.0" r="3.0" stroke="black" fill="none" stroke-width="2"/>
-<line x1="161.06299212598427" y1="5.0" x2="167.06299212598427" y2="11.0" stroke="black" stroke-width="2"/>
-<line x1="161.06299212598427" y1="11.0" x2="167.06299212598427" y2="5.0" stroke="black" stroke-width="2"/>
-<circle cx="204.06299212598427" cy="20.0" r="6.0" stroke="black" fill="none" stroke-width="2"/>
-<text x="222.06299212598427" y="29.0" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">3</text>
-<rect x="136.06299212598427" y="0.0" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
-<line x1="294.12598425196853" y1="2.0" x2="294.12598425196853" y2="38.0" stroke="black" />
-<line x1="306.12598425196853" y1="2.0" x2="306.12598425196853" y2="38.0" stroke="black" />
-<line x1="282.12598425196853" y1="14.0" x2="318.12598425196853" y2="14.0" stroke="black" />
-<line x1="282.12598425196853" y1="26.0" x2="318.12598425196853" y2="26.0" stroke="black" />
-<line x1="297.12598425196853" y1="5.0" x2="303.12598425196853" y2="11.0" stroke="black" stroke-width="2"/>
-<line x1="297.12598425196853" y1="11.0" x2="303.12598425196853" y2="5.0" stroke="black" stroke-width="2"/>
-<circle cx="288.12598425196853" cy="32.0" r="3.0" stroke="black" fill="none" stroke-width="2"/>
-<circle cx="340.12598425196853" cy="20.0" r="6.0" stroke="black" fill="none" stroke-width="2"/>
-<text x="358.12598425196853" y="29.0" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">4</text>
-<rect x="272.12598425196853" y="0.0" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
-<line x1="430.1889763779528" y1="2.0" x2="430.1889763779528" y2="38.0" stroke="black" />
-<line x1="442.1889763779528" y1="2.0" x2="442.1889763779528" y2="38.0" stroke="black" />
-<line x1="418.1889763779528" y1="14.0" x2="454.1889763779528" y2="14.0" stroke="black" />
-<line x1="418.1889763779528" y1="26.0" x2="454.1889763779528" y2="26.0" stroke="black" />
-<line x1="433.1889763779528" y1="5.0" x2="439.1889763779528" y2="11.0" stroke="black" stroke-width="2"/>
-<line x1="433.1889763779528" y1="11.0" x2="439.1889763779528" y2="5.0" stroke="black" stroke-width="2"/>
-<circle cx="424.1889763779528" cy="20.0" r="3.0" stroke="black" fill="none" stroke-width="2"/>
-<circle cx="476.1889763779528" cy="20.0" r="6.0" stroke="black" fill="none" stroke-width="2"/>
-<text x="494.1889763779528" y="29.0" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">5</text>
-<rect x="408.1889763779528" y="0.0" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
-<line x1="566.2519685039371" y1="2.0" x2="566.2519685039371" y2="38.0" stroke="black" />
-<line x1="578.2519685039371" y1="2.0" x2="578.2519685039371" y2="38.0" stroke="black" />
-<line x1="554.2519685039371" y1="14.0" x2="590.2519685039371" y2="14.0" stroke="black" />
-<line x1="554.2519685039371" y1="26.0" x2="590.2519685039371" y2="26.0" stroke="black" />
-<circle cx="560.2519685039371" cy="8.0" r="3.0" stroke="black" fill="none" stroke-width="2"/>
-<line x1="569.2519685039371" y1="17.0" x2="575.2519685039371" y2="23.0" stroke="black" stroke-width="2"/>
-<line x1="569.2519685039371" y1="23.0" x2="575.2519685039371" y2="17.0" stroke="black" stroke-width="2"/>
-<circle cx="612.2519685039371" cy="20.0" r="6.0" stroke="black" fill="none" stroke-width="2"/>
-<text x="630.2519685039371" y="29.0" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">6</text>
-<rect x="544.2519685039371" y="0.0" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
-<line x1="22.0" y1="43.5748031496063" x2="22.0" y2="79.57480314960631" stroke="black" />
-<line x1="34.0" y1="43.5748031496063" x2="34.0" y2="79.57480314960631" stroke="black" />
-<line x1="10.0" y1="55.5748031496063" x2="46.0" y2="55.5748031496063" stroke="black" />
-<line x1="10.0" y1="67.57480314960631" x2="46.0" y2="67.57480314960631" stroke="black" />
-<line x1="13.0" y1="46.5748031496063" x2="19.0" y2="52.5748031496063" stroke="black" stroke-width="2"/>
-<line x1="13.0" y1="52.5748031496063" x2="19.0" y2="46.5748031496063" stroke="black" stroke-width="2"/>
-<circle cx="28.0" cy="49.5748031496063" r="3.0" stroke="black" fill="none" stroke-width="2"/>
-<circle cx="68.0" cy="61.5748031496063" r="6.0" stroke="black" fill="none" stroke-width="2"/>
-<text x="86.0" y="70.57480314960631" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">7</text>
-<rect x="0.0" y="41.5748031496063" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
-<line x1="158.06299212598427" y1="43.5748031496063" x2="158.06299212598427" y2="79.57480314960631" stroke="black" />
-<line x1="170.06299212598427" y1="43.5748031496063" x2="170.06299212598427" y2="79.57480314960631" stroke="black" />
-<line x1="146.06299212598427" y1="55.5748031496063" x2="182.06299212598427" y2="55.5748031496063" stroke="black" />
-<line x1="146.06299212598427" y1="67.57480314960631" x2="182.06299212598427" y2="67.57480314960631" stroke="black" />
-<line x1="149.06299212598427" y1="46.5748031496063" x2="155.06299212598427" y2="52.5748031496063" stroke="black" stroke-width="2"/>
-<line x1="149.06299212598427" y1="52.5748031496063" x2="155.06299212598427" y2="46.5748031496063" stroke="black" stroke-width="2"/>
-<circle cx="176.06299212598427" cy="73.57480314960631" r="3.0" stroke="black" fill="none" stroke-width="2"/>
-<circle cx="204.06299212598427" cy="61.5748031496063" r="6.0" stroke="black" fill="none" stroke-width="2"/>
-<text x="222.06299212598427" y="70.57480314960631" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">8</text>
-<rect x="136.06299212598427" y="41.5748031496063" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
-<line x1="294.12598425196853" y1="43.5748031496063" x2="294.12598425196853" y2="79.57480314960631" stroke="black" />
-<line x1="306.12598425196853" y1="43.5748031496063" x2="306.12598425196853" y2="79.57480314960631" stroke="black" />
-<line x1="282.12598425196853" y1="55.5748031496063" x2="318.12598425196853" y2="55.5748031496063" stroke="black" />
-<line x1="282.12598425196853" y1="67.57480314960631" x2="318.12598425196853" y2="67.57480314960631" stroke="black" />
-<circle cx="300.12598425196853" cy="49.5748031496063" r="3.0" stroke="black" fill="none" stroke-width="2"/>
-<line x1="297.12598425196853" y1="58.5748031496063" x2="303.12598425196853" y2="64.57480314960631" stroke="black" stroke-width="2"/>
-<line x1="297.12598425196853" y1="64.57480314960631" x2="303.12598425196853" y2="58.5748031496063" stroke="black" stroke-width="2"/>
-<circle cx="340.12598425196853" cy="61.5748031496063" r="6.0" stroke="black" fill="none" stroke-width="2"/>
-<text x="358.12598425196853" y="70.57480314960631" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">9</text>
-<rect x="272.12598425196853" y="41.5748031496063" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
-<line x1="430.1889763779528" y1="43.5748031496063" x2="430.1889763779528" y2="79.57480314960631" stroke="black" />
-<line x1="442.1889763779528" y1="43.5748031496063" x2="442.1889763779528" y2="79.57480314960631" stroke="black" />
-<line x1="418.1889763779528" y1="55.5748031496063" x2="454.1889763779528" y2="55.5748031496063" stroke="black" />
-<line x1="418.1889763779528" y1="67.57480314960631" x2="454.1889763779528" y2="67.57480314960631" stroke="black" />
-<line x1="421.1889763779528" y1="46.5748031496063" x2="427.1889763779528" y2="52.5748031496063" stroke="black" stroke-width="2"/>
-<line x1="421.1889763779528" y1="52.5748031496063" x2="427.1889763779528" y2="46.5748031496063" stroke="black" stroke-width="2"/>
-<circle cx="448.1889763779528" cy="49.5748031496063" r="3.0" stroke="black" fill="none" stroke-width="2"/>
-<circle cx="476.1889763779528" cy="61.5748031496063" r="6.0" stroke="black" fill="none" stroke-width="2"/>
-<text x="494.1889763779528" y="70.57480314960631" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">10</text>
-<rect x="408.1889763779528" y="41.5748031496063" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
-<line x1="566.2519685039371" y1="43.5748031496063" x2="566.2519685039371" y2="79.57480314960631" stroke="black" />
-<line x1="578.2519685039371" y1="43.5748031496063" x2="578.2519685039371" y2="79.57480314960631" stroke="black" />
-<line x1="554.2519685039371" y1="55.5748031496063" x2="590.2519685039371" y2="55.5748031496063" stroke="black" />
-<line x1="554.2519685039371" y1="67.57480314960631" x2="590.2519685039371" y2="67.57480314960631" stroke="black" />
-<line x1="569.2519685039371" y1="46.5748031496063" x2="575.2519685039371" y2="52.5748031496063" stroke="black" stroke-width="2"/>
-<line x1="569.2519685039371" y1="52.5748031496063" x2="575.2519685039371" y2="46.5748031496063" stroke="black" stroke-width="2"/>
-<circle cx="572.2519685039371" cy="61.5748031496063" r="3.0" stroke="black" fill="none" stroke-width="2"/>
-<circle cx="612.2519685039371" cy="61.5748031496063" r="6.0" stroke="black" fill="none" stroke-width="2"/>
-<text x="630.2519685039371" y="70.57480314960631" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">11</text>
-<rect x="544.2519685039371" y="41.5748031496063" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
-<line x1="22.0" y1="85.1496062992126" x2="22.0" y2="121.1496062992126" stroke="black" />
-<line x1="34.0" y1="85.1496062992126" x2="34.0" y2="121.1496062992126" stroke="black" />
-<line x1="10.0" y1="97.1496062992126" x2="46.0" y2="97.1496062992126" stroke="black" />
-<line x1="10.0" y1="109.1496062992126" x2="46.0" y2="109.1496062992126" stroke="black" />
-<line x1="25.0" y1="88.1496062992126" x2="31.0" y2="94.1496062992126" stroke="black" stroke-width="2"/>
-<line x1="25.0" y1="94.1496062992126" x2="31.0" y2="88.1496062992126" stroke="black" stroke-width="2"/>
-<circle cx="28.0" cy="115.1496062992126" r="3.0" stroke="black" fill="none" stroke-width="2"/>
-<circle cx="68.0" cy="103.1496062992126" r="6.0" stroke="black" fill="none" stroke-width="2"/>
-<text x="86.0" y="112.1496062992126" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">12</text>
-<rect x="0.0" y="83.1496062992126" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
-<line x1="158.06299212598427" y1="85.1496062992126" x2="158.06299212598427" y2="121.1496062992126" stroke="black" />
-<line x1="170.06299212598427" y1="85.1496062992126" x2="170.06299212598427" y2="121.1496062992126" stroke="black" />
-<line x1="146.06299212598427" y1="97.1496062992126" x2="182.06299212598427" y2="97.1496062992126" stroke="black" />
-<line x1="146.06299212598427" y1="109.1496062992126" x2="182.06299212598427" y2="109.1496062992126" stroke="black" />
-<line x1="149.06299212598427" y1="88.1496062992126" x2="155.06299212598427" y2="94.1496062992126" stroke="black" stroke-width="2"/>
-<line x1="149.06299212598427" y1="94.1496062992126" x2="155.06299212598427" y2="88.1496062992126" stroke="black" stroke-width="2"/>
-<circle cx="176.06299212598427" cy="103.1496062992126" r="3.0" stroke="black" fill="none" stroke-width="2"/>
-<circle cx="204.06299212598427" cy="103.1496062992126" r="6.0" stroke="black" fill="none" stroke-width="2"/>
-<text x="222.06299212598427" y="112.1496062992126" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">13</text>
-<rect x="136.06299212598427" y="83.1496062992126" width="136" height="41" stroke="red" fill="none" rx="10" ry="10"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="297mm"
+   height="210mm"
+   version="1.1"
+   id="svg73"
+   sodipodi:docname="move_1.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs73" />
+  <sodipodi:namedview
+     id="namedview73"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.53891932"
+     inkscape:cx="282.97371"
+     inkscape:cy="244.00684"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg73"
+     inkscape:document-units="mm" />
+  <line
+     x1="22"
+     y1="2"
+     x2="22"
+     y2="38"
+     stroke="#000000"
+     id="line1" />
+  <line
+     x1="34"
+     y1="2"
+     x2="34"
+     y2="38"
+     stroke="#000000"
+     id="line2" />
+  <line
+     x1="10"
+     y1="14"
+     x2="46"
+     y2="14"
+     stroke="#000000"
+     id="line3" />
+  <line
+     x1="10"
+     y1="26"
+     x2="46"
+     y2="26"
+     stroke="#000000"
+     id="line4" />
+  <line
+     x1="13"
+     y1="5"
+     x2="19"
+     y2="11"
+     stroke="#000000"
+     stroke-width="2"
+     id="line5" />
+  <line
+     x1="13"
+     y1="11"
+     x2="19"
+     y2="5"
+     stroke="#000000"
+     stroke-width="2"
+     id="line6" />
+  <circle
+     cx="28"
+     cy="20"
+     r="3"
+     stroke="#000000"
+     fill="none"
+     stroke-width="2"
+     id="circle6" />
+  <circle
+     cx="68"
+     cy="20"
+     r="6"
+     stroke="#000000"
+     fill="none"
+     stroke-width="2"
+     id="circle7" />
+  <text
+     x="86"
+     y="29"
+     font-size="27px"
+     fill="#000000"
+     font-family="Consolas, 'Courier New', monospace"
+     id="text7">2</text>
+  <rect
+     x="0"
+     y="0"
+     width="136"
+     height="41"
+     stroke="#ff0000"
+     fill="none"
+     rx="10"
+     ry="10"
+     id="rect7" />
+  <line
+     x1="158.06299"
+     y1="2"
+     x2="158.06299"
+     y2="38"
+     stroke="#000000"
+     id="line7" />
+  <line
+     x1="170.06299"
+     y1="2"
+     x2="170.06299"
+     y2="38"
+     stroke="#000000"
+     id="line8" />
+  <line
+     x1="146.06299"
+     y1="14"
+     x2="182.06299"
+     y2="14"
+     stroke="#000000"
+     id="line9" />
+  <line
+     x1="146.06299"
+     y1="26"
+     x2="182.06299"
+     y2="26"
+     stroke="#000000"
+     id="line10" />
+  <circle
+     cx="152.06299"
+     cy="8"
+     r="3"
+     stroke="#000000"
+     fill="none"
+     stroke-width="2"
+     id="circle10" />
+  <line
+     x1="161.06299"
+     y1="5"
+     x2="167.06299"
+     y2="11"
+     stroke="#000000"
+     stroke-width="2"
+     id="line11" />
+  <line
+     x1="161.06299"
+     y1="11"
+     x2="167.06299"
+     y2="5"
+     stroke="#000000"
+     stroke-width="2"
+     id="line12" />
+  <circle
+     cx="204.06299"
+     cy="20"
+     r="6"
+     stroke="#000000"
+     fill="none"
+     stroke-width="2"
+     id="circle12" />
+  <text
+     x="222.06299"
+     y="29"
+     font-size="27px"
+     fill="#000000"
+     font-family="Consolas, 'Courier New', monospace"
+     id="text12">3</text>
+  <rect
+     x="136.06299"
+     y="0"
+     width="136"
+     height="41"
+     stroke="#ff0000"
+     fill="none"
+     rx="10"
+     ry="10"
+     id="rect12" />
+  <line
+     x1="294.12598"
+     y1="2"
+     x2="294.12598"
+     y2="38"
+     stroke="#000000"
+     id="line13" />
+  <line
+     x1="306.12598"
+     y1="2"
+     x2="306.12598"
+     y2="38"
+     stroke="#000000"
+     id="line14" />
+  <line
+     x1="282.12598"
+     y1="14"
+     x2="318.12598"
+     y2="14"
+     stroke="#000000"
+     id="line15" />
+  <line
+     x1="282.12598"
+     y1="26"
+     x2="318.12598"
+     y2="26"
+     stroke="#000000"
+     id="line16" />
+  <line
+     x1="297.12598"
+     y1="5"
+     x2="303.12598"
+     y2="11"
+     stroke="#000000"
+     stroke-width="2"
+     id="line17" />
+  <line
+     x1="297.12598"
+     y1="11"
+     x2="303.12598"
+     y2="5"
+     stroke="#000000"
+     stroke-width="2"
+     id="line18" />
+  <circle
+     cx="288.12598"
+     cy="32"
+     r="3"
+     stroke="#000000"
+     fill="none"
+     stroke-width="2"
+     id="circle18" />
+  <circle
+     cx="340.12598"
+     cy="20"
+     r="6"
+     stroke="#000000"
+     fill="none"
+     stroke-width="2"
+     id="circle19" />
+  <text
+     x="358.12598"
+     y="29"
+     font-size="27px"
+     fill="#000000"
+     font-family="Consolas, 'Courier New', monospace"
+     id="text19">4</text>
+  <rect
+     x="272.12598"
+     y="0"
+     width="136"
+     height="41"
+     stroke="#ff0000"
+     fill="none"
+     rx="10"
+     ry="10"
+     id="rect19" />
+  <line
+     x1="430.18896"
+     y1="2"
+     x2="430.18896"
+     y2="38"
+     stroke="#000000"
+     id="line19" />
+  <line
+     x1="442.18896"
+     y1="2"
+     x2="442.18896"
+     y2="38"
+     stroke="#000000"
+     id="line20" />
+  <line
+     x1="418.18896"
+     y1="14"
+     x2="454.18896"
+     y2="14"
+     stroke="#000000"
+     id="line21" />
+  <line
+     x1="418.18896"
+     y1="26"
+     x2="454.18896"
+     y2="26"
+     stroke="#000000"
+     id="line22" />
+  <line
+     x1="433.18896"
+     y1="5"
+     x2="439.18896"
+     y2="11"
+     stroke="#000000"
+     stroke-width="2"
+     id="line23" />
+  <line
+     x1="433.18896"
+     y1="11"
+     x2="439.18896"
+     y2="5"
+     stroke="#000000"
+     stroke-width="2"
+     id="line24" />
+  <circle
+     cx="424.18896"
+     cy="20"
+     r="3"
+     stroke="#000000"
+     fill="none"
+     stroke-width="2"
+     id="circle24" />
+  <circle
+     cx="476.18896"
+     cy="20"
+     r="6"
+     stroke="#000000"
+     fill="none"
+     stroke-width="2"
+     id="circle25" />
+  <text
+     x="494.18896"
+     y="29"
+     font-size="27px"
+     fill="#000000"
+     font-family="Consolas, 'Courier New', monospace"
+     id="text25">5</text>
+  <rect
+     x="408.18896"
+     y="0"
+     width="136"
+     height="41"
+     stroke="#ff0000"
+     fill="none"
+     rx="10"
+     ry="10"
+     id="rect25" />
+  <line
+     x1="566.25195"
+     y1="2"
+     x2="566.25195"
+     y2="38"
+     stroke="#000000"
+     id="line25" />
+  <line
+     x1="578.25195"
+     y1="2"
+     x2="578.25195"
+     y2="38"
+     stroke="#000000"
+     id="line26" />
+  <line
+     x1="554.25195"
+     y1="14"
+     x2="590.25195"
+     y2="14"
+     stroke="#000000"
+     id="line27" />
+  <line
+     x1="554.25195"
+     y1="26"
+     x2="590.25195"
+     y2="26"
+     stroke="#000000"
+     id="line28" />
+  <circle
+     cx="560.25195"
+     cy="8"
+     r="3"
+     stroke="#000000"
+     fill="none"
+     stroke-width="2"
+     id="circle28" />
+  <line
+     x1="569.25195"
+     y1="17"
+     x2="575.25195"
+     y2="23"
+     stroke="#000000"
+     stroke-width="2"
+     id="line29" />
+  <line
+     x1="569.25195"
+     y1="23"
+     x2="575.25195"
+     y2="17"
+     stroke="#000000"
+     stroke-width="2"
+     id="line30" />
+  <circle
+     cx="612.25195"
+     cy="20"
+     r="6"
+     stroke="#000000"
+     fill="none"
+     stroke-width="2"
+     id="circle30" />
+  <text
+     x="630.25195"
+     y="29"
+     font-size="27px"
+     fill="#000000"
+     font-family="Consolas, 'Courier New', monospace"
+     id="text30">6</text>
+  <rect
+     x="544.25195"
+     y="0"
+     width="136"
+     height="41"
+     stroke="#ff0000"
+     fill="none"
+     rx="10"
+     ry="10"
+     id="rect30" />
+  <line
+     x1="22"
+     y1="43.574802"
+     x2="22"
+     y2="79.574806"
+     stroke="#000000"
+     id="line31" />
+  <line
+     x1="34"
+     y1="43.574802"
+     x2="34"
+     y2="79.574806"
+     stroke="#000000"
+     id="line32" />
+  <line
+     x1="10"
+     y1="55.574802"
+     x2="46"
+     y2="55.574802"
+     stroke="#000000"
+     id="line33" />
+  <line
+     x1="10"
+     y1="67.574806"
+     x2="46"
+     y2="67.574806"
+     stroke="#000000"
+     id="line34" />
+  <line
+     x1="13"
+     y1="46.574802"
+     x2="19"
+     y2="52.574802"
+     stroke="#000000"
+     stroke-width="2"
+     id="line35" />
+  <line
+     x1="13"
+     y1="52.574802"
+     x2="19"
+     y2="46.574802"
+     stroke="#000000"
+     stroke-width="2"
+     id="line36" />
+  <circle
+     cx="28"
+     cy="49.574802"
+     r="3"
+     stroke="#000000"
+     fill="none"
+     stroke-width="2"
+     id="circle36" />
+  <circle
+     cx="68"
+     cy="61.574802"
+     r="6"
+     stroke="#000000"
+     fill="none"
+     stroke-width="2"
+     id="circle37" />
+  <text
+     x="86"
+     y="70.574806"
+     font-size="27px"
+     fill="#000000"
+     font-family="Consolas, 'Courier New', monospace"
+     id="text37">7</text>
+  <rect
+     x="0"
+     y="41.574802"
+     width="136"
+     height="41"
+     stroke="#ff0000"
+     fill="none"
+     rx="10"
+     ry="10"
+     id="rect37" />
+  <line
+     x1="158.06299"
+     y1="43.574802"
+     x2="158.06299"
+     y2="79.574806"
+     stroke="#000000"
+     id="line37" />
+  <line
+     x1="170.06299"
+     y1="43.574802"
+     x2="170.06299"
+     y2="79.574806"
+     stroke="#000000"
+     id="line38" />
+  <line
+     x1="146.06299"
+     y1="55.574802"
+     x2="182.06299"
+     y2="55.574802"
+     stroke="#000000"
+     id="line39" />
+  <line
+     x1="146.06299"
+     y1="67.574806"
+     x2="182.06299"
+     y2="67.574806"
+     stroke="#000000"
+     id="line40" />
+  <line
+     x1="149.06299"
+     y1="46.574802"
+     x2="155.06299"
+     y2="52.574802"
+     stroke="#000000"
+     stroke-width="2"
+     id="line41" />
+  <line
+     x1="149.06299"
+     y1="52.574802"
+     x2="155.06299"
+     y2="46.574802"
+     stroke="#000000"
+     stroke-width="2"
+     id="line42" />
+  <circle
+     cx="176.06299"
+     cy="73.574806"
+     r="3"
+     stroke="#000000"
+     fill="none"
+     stroke-width="2"
+     id="circle42" />
+  <circle
+     cx="204.06299"
+     cy="61.574802"
+     r="6"
+     stroke="#000000"
+     fill="none"
+     stroke-width="2"
+     id="circle43" />
+  <text
+     x="222.06299"
+     y="70.574806"
+     font-size="27px"
+     fill="#000000"
+     font-family="Consolas, 'Courier New', monospace"
+     id="text43">8</text>
+  <rect
+     x="136.06299"
+     y="41.574802"
+     width="136"
+     height="41"
+     stroke="#ff0000"
+     fill="none"
+     rx="10"
+     ry="10"
+     id="rect43" />
+  <line
+     x1="294.12598"
+     y1="43.574802"
+     x2="294.12598"
+     y2="79.574806"
+     stroke="#000000"
+     id="line43" />
+  <line
+     x1="306.12598"
+     y1="43.574802"
+     x2="306.12598"
+     y2="79.574806"
+     stroke="#000000"
+     id="line44" />
+  <line
+     x1="282.12598"
+     y1="55.574802"
+     x2="318.12598"
+     y2="55.574802"
+     stroke="#000000"
+     id="line45" />
+  <line
+     x1="282.12598"
+     y1="67.574806"
+     x2="318.12598"
+     y2="67.574806"
+     stroke="#000000"
+     id="line46" />
+  <circle
+     cx="300.12598"
+     cy="49.574802"
+     r="3"
+     stroke="#000000"
+     fill="none"
+     stroke-width="2"
+     id="circle46" />
+  <line
+     x1="297.12598"
+     y1="58.574802"
+     x2="303.12598"
+     y2="64.574806"
+     stroke="#000000"
+     stroke-width="2"
+     id="line47" />
+  <line
+     x1="297.12598"
+     y1="64.574806"
+     x2="303.12598"
+     y2="58.574802"
+     stroke="#000000"
+     stroke-width="2"
+     id="line48" />
+  <circle
+     cx="340.12598"
+     cy="61.574802"
+     r="6"
+     stroke="#000000"
+     fill="none"
+     stroke-width="2"
+     id="circle48" />
+  <text
+     x="358.12598"
+     y="70.574806"
+     font-size="27px"
+     fill="#000000"
+     font-family="Consolas, 'Courier New', monospace"
+     id="text48">9</text>
+  <rect
+     x="272.12598"
+     y="41.574802"
+     width="136"
+     height="41"
+     stroke="#ff0000"
+     fill="none"
+     rx="10"
+     ry="10"
+     id="rect48" />
+  <line
+     x1="430.18896"
+     y1="43.574802"
+     x2="430.18896"
+     y2="79.574806"
+     stroke="#000000"
+     id="line49" />
+  <line
+     x1="442.18896"
+     y1="43.574802"
+     x2="442.18896"
+     y2="79.574806"
+     stroke="#000000"
+     id="line50" />
+  <line
+     x1="418.18896"
+     y1="55.574802"
+     x2="454.18896"
+     y2="55.574802"
+     stroke="#000000"
+     id="line51" />
+  <line
+     x1="418.18896"
+     y1="67.574806"
+     x2="454.18896"
+     y2="67.574806"
+     stroke="#000000"
+     id="line52" />
+  <line
+     x1="421.18896"
+     y1="46.574802"
+     x2="427.18896"
+     y2="52.574802"
+     stroke="#000000"
+     stroke-width="2"
+     id="line53" />
+  <line
+     x1="421.18896"
+     y1="52.574802"
+     x2="427.18896"
+     y2="46.574802"
+     stroke="#000000"
+     stroke-width="2"
+     id="line54" />
+  <circle
+     cx="448.18896"
+     cy="49.574802"
+     r="3"
+     stroke="#000000"
+     fill="none"
+     stroke-width="2"
+     id="circle54" />
+  <circle
+     cx="476.18896"
+     cy="61.574802"
+     r="6"
+     stroke="#000000"
+     fill="none"
+     stroke-width="2"
+     id="circle55" />
+  <text
+     x="494.18896"
+     y="70.574806"
+     font-size="27px"
+     fill="#000000"
+     font-family="Consolas, 'Courier New', monospace"
+     id="text55">10</text>
+  <rect
+     x="408.18896"
+     y="41.574802"
+     width="136"
+     height="41"
+     stroke="#ff0000"
+     fill="none"
+     rx="10"
+     ry="10"
+     id="rect55" />
+  <line
+     x1="566.25195"
+     y1="43.574802"
+     x2="566.25195"
+     y2="79.574806"
+     stroke="#000000"
+     id="line55" />
+  <line
+     x1="578.25195"
+     y1="43.574802"
+     x2="578.25195"
+     y2="79.574806"
+     stroke="#000000"
+     id="line56" />
+  <line
+     x1="554.25195"
+     y1="55.574802"
+     x2="590.25195"
+     y2="55.574802"
+     stroke="#000000"
+     id="line57" />
+  <line
+     x1="554.25195"
+     y1="67.574806"
+     x2="590.25195"
+     y2="67.574806"
+     stroke="#000000"
+     id="line58" />
+  <line
+     x1="569.25195"
+     y1="46.574802"
+     x2="575.25195"
+     y2="52.574802"
+     stroke="#000000"
+     stroke-width="2"
+     id="line59" />
+  <line
+     x1="569.25195"
+     y1="52.574802"
+     x2="575.25195"
+     y2="46.574802"
+     stroke="#000000"
+     stroke-width="2"
+     id="line60" />
+  <circle
+     cx="572.25195"
+     cy="61.574802"
+     r="3"
+     stroke="#000000"
+     fill="none"
+     stroke-width="2"
+     id="circle60" />
+  <circle
+     cx="612.25195"
+     cy="61.574802"
+     r="6"
+     stroke="#000000"
+     fill="none"
+     stroke-width="2"
+     id="circle61" />
+  <text
+     x="630.25195"
+     y="70.574806"
+     font-size="27px"
+     fill="#000000"
+     font-family="Consolas, 'Courier New', monospace"
+     id="text61">11</text>
+  <rect
+     x="544.25195"
+     y="41.574802"
+     width="136"
+     height="41"
+     stroke="#ff0000"
+     fill="none"
+     rx="10"
+     ry="10"
+     id="rect61" />
+  <line
+     x1="22"
+     y1="85.149605"
+     x2="22"
+     y2="121.1496"
+     stroke="#000000"
+     id="line61" />
+  <line
+     x1="34"
+     y1="85.149605"
+     x2="34"
+     y2="121.1496"
+     stroke="#000000"
+     id="line62" />
+  <line
+     x1="10"
+     y1="97.149605"
+     x2="46"
+     y2="97.149605"
+     stroke="#000000"
+     id="line63" />
+  <line
+     x1="10"
+     y1="109.1496"
+     x2="46"
+     y2="109.1496"
+     stroke="#000000"
+     id="line64" />
+  <line
+     x1="25"
+     y1="88.149605"
+     x2="31"
+     y2="94.149605"
+     stroke="#000000"
+     stroke-width="2"
+     id="line65" />
+  <line
+     x1="25"
+     y1="94.149605"
+     x2="31"
+     y2="88.149605"
+     stroke="#000000"
+     stroke-width="2"
+     id="line66" />
+  <circle
+     cx="28"
+     cy="115.1496"
+     r="3"
+     stroke="#000000"
+     fill="none"
+     stroke-width="2"
+     id="circle66" />
+  <circle
+     cx="68"
+     cy="103.1496"
+     r="6"
+     stroke="#000000"
+     fill="none"
+     stroke-width="2"
+     id="circle67" />
+  <text
+     x="86"
+     y="112.1496"
+     font-size="27px"
+     fill="#000000"
+     font-family="Consolas, 'Courier New', monospace"
+     id="text67">12</text>
+  <rect
+     x="0"
+     y="83.149605"
+     width="136"
+     height="41"
+     stroke="#ff0000"
+     fill="none"
+     rx="10"
+     ry="10"
+     id="rect67" />
+  <line
+     x1="158.06299"
+     y1="85.149605"
+     x2="158.06299"
+     y2="121.1496"
+     stroke="#000000"
+     id="line67" />
+  <line
+     x1="170.06299"
+     y1="85.149605"
+     x2="170.06299"
+     y2="121.1496"
+     stroke="#000000"
+     id="line68" />
+  <line
+     x1="146.06299"
+     y1="97.149605"
+     x2="182.06299"
+     y2="97.149605"
+     stroke="#000000"
+     id="line69" />
+  <line
+     x1="146.06299"
+     y1="109.1496"
+     x2="182.06299"
+     y2="109.1496"
+     stroke="#000000"
+     id="line70" />
+  <line
+     x1="149.06299"
+     y1="88.149605"
+     x2="155.06299"
+     y2="94.149605"
+     stroke="#000000"
+     stroke-width="2"
+     id="line71" />
+  <line
+     x1="149.06299"
+     y1="94.149605"
+     x2="155.06299"
+     y2="88.149605"
+     stroke="#000000"
+     stroke-width="2"
+     id="line72" />
+  <circle
+     cx="176.06299"
+     cy="103.1496"
+     r="3"
+     stroke="#000000"
+     fill="none"
+     stroke-width="2"
+     id="circle72" />
+  <circle
+     cx="204.06299"
+     cy="103.1496"
+     r="6"
+     stroke="#000000"
+     fill="none"
+     stroke-width="2"
+     id="circle73" />
+  <text
+     x="222.06299"
+     y="112.1496"
+     font-size="27px"
+     fill="#000000"
+     font-family="Consolas, 'Courier New', monospace"
+     id="text73">13</text>
+  <rect
+     x="136.06299"
+     y="83.149605"
+     width="136"
+     height="41"
+     stroke="#ff0000"
+     fill="none"
+     rx="10"
+     ry="10"
+     id="rect73" />
 </svg>
