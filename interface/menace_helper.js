@@ -146,8 +146,8 @@ function create_box_hint(next_box_state) {
     return table;
 }
 
-
 function display_board() {
+    console.log(current_state)
     for(let i = 0; i < 9; i++) {
         if(current_state[i] != "_") {
             if(current_state[i] == "O") {
