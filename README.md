@@ -76,9 +76,11 @@ We also laser cut a tic tac toe board and pieces to let the participants play th
 ## Web interface
 
 I've built a web interface that you can use to know which box to use for a given state.  
-To use it, simply open the file `interface/index.html` in your browser.
+To use it, simply open the file `interface/index.html` in your browser or go to rubengr.es/menace
 
-TODO screenshot of webui
+<center>
+<img src="media/menca_ui.png" alt="Web UI of the helper"/>
+</center>
 
 # Training stats
 
