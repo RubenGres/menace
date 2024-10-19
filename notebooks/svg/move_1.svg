@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="755.6692913385828" height="85.59055118110237">
+<line x1="22.0" y1="2.0" x2="22.0" y2="38.0" stroke="black" />
+<line x1="34.0" y1="2.0" x2="34.0" y2="38.0" stroke="black" />
+<line x1="10.0" y1="14.0" x2="46.0" y2="14.0" stroke="black" />
+<line x1="10.0" y1="26.0" x2="46.0" y2="26.0" stroke="black" />
+<circle cx="16.0" cy="20.0" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<line x1="37.0" y1="17.0" x2="43.0" y2="23.0" stroke="black" stroke-width="2"/>
+<line x1="37.0" y1="23.0" x2="43.0" y2="17.0" stroke="black" stroke-width="2"/>
+<circle cx="60.472440944881896" cy="20.0" r="6.0" stroke="red" fill="none" stroke-width="2"/>
+<text x="71.0" y="29.0" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">2</text>
+<rect x="0.0" y="0.0" width="120.94488188976379" height="37.795275590551185" stroke="red" fill="none" rx="10" ry="10"/>
+<line x1="147.9448818897638" y1="2.0" x2="147.9448818897638" y2="38.0" stroke="black" />
+<line x1="159.9448818897638" y1="2.0" x2="159.9448818897638" y2="38.0" stroke="black" />
+<line x1="135.9448818897638" y1="14.0" x2="171.9448818897638" y2="14.0" stroke="black" />
+<line x1="135.9448818897638" y1="26.0" x2="171.9448818897638" y2="26.0" stroke="black" />
+<line x1="162.9448818897638" y1="5.0" x2="168.9448818897638" y2="11.0" stroke="black" stroke-width="2"/>
+<line x1="162.9448818897638" y1="11.0" x2="168.9448818897638" y2="5.0" stroke="black" stroke-width="2"/>
+<circle cx="141.9448818897638" cy="20.0" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="186.4173228346457" cy="20.0" r="6.0" stroke="red" fill="none" stroke-width="2"/>
+<text x="196.9448818897638" y="29.0" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">3</text>
+<rect x="125.94488188976379" y="0.0" width="120.94488188976379" height="37.795275590551185" stroke="red" fill="none" rx="10" ry="10"/>
+<line x1="273.8897637795276" y1="2.0" x2="273.8897637795276" y2="38.0" stroke="black" />
+<line x1="285.8897637795276" y1="2.0" x2="285.8897637795276" y2="38.0" stroke="black" />
+<line x1="261.8897637795276" y1="14.0" x2="297.8897637795276" y2="14.0" stroke="black" />
+<line x1="261.8897637795276" y1="26.0" x2="297.8897637795276" y2="26.0" stroke="black" />
+<circle cx="291.8897637795276" cy="8.0" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<line x1="264.8897637795276" y1="29.0" x2="270.8897637795276" y2="35.0" stroke="black" stroke-width="2"/>
+<line x1="264.8897637795276" y1="35.0" x2="270.8897637795276" y2="29.0" stroke="black" stroke-width="2"/>
+<circle cx="312.3622047244095" cy="20.0" r="6.0" stroke="red" fill="none" stroke-width="2"/>
+<text x="322.8897637795276" y="29.0" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">4</text>
+<rect x="251.88976377952758" y="0.0" width="120.94488188976379" height="37.795275590551185" stroke="red" fill="none" rx="10" ry="10"/>
+<line x1="399.8346456692914" y1="2.0" x2="399.8346456692914" y2="38.0" stroke="black" />
+<line x1="411.8346456692914" y1="2.0" x2="411.8346456692914" y2="38.0" stroke="black" />
+<line x1="387.8346456692914" y1="14.0" x2="423.8346456692914" y2="14.0" stroke="black" />
+<line x1="387.8346456692914" y1="26.0" x2="423.8346456692914" y2="26.0" stroke="black" />
+<circle cx="417.8346456692914" cy="8.0" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<line x1="390.8346456692914" y1="17.0" x2="396.8346456692914" y2="23.0" stroke="black" stroke-width="2"/>
+<line x1="390.8346456692914" y1="23.0" x2="396.8346456692914" y2="17.0" stroke="black" stroke-width="2"/>
+<circle cx="438.3070866141733" cy="20.0" r="6.0" stroke="red" fill="none" stroke-width="2"/>
+<text x="448.8346456692914" y="29.0" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">5</text>
+<rect x="377.8346456692914" y="0.0" width="120.94488188976379" height="37.795275590551185" stroke="red" fill="none" rx="10" ry="10"/>
+<line x1="525.7795275590552" y1="2.0" x2="525.7795275590552" y2="38.0" stroke="black" />
+<line x1="537.7795275590552" y1="2.0" x2="537.7795275590552" y2="38.0" stroke="black" />
+<line x1="513.7795275590552" y1="14.0" x2="549.7795275590552" y2="14.0" stroke="black" />
+<line x1="513.7795275590552" y1="26.0" x2="549.7795275590552" y2="26.0" stroke="black" />
+<line x1="528.7795275590552" y1="5.0" x2="534.7795275590552" y2="11.0" stroke="black" stroke-width="2"/>
+<line x1="528.7795275590552" y1="11.0" x2="534.7795275590552" y2="5.0" stroke="black" stroke-width="2"/>
+<circle cx="531.7795275590552" cy="20.0" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="564.2519685039371" cy="20.0" r="6.0" stroke="red" fill="none" stroke-width="2"/>
+<text x="574.7795275590552" y="29.0" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">6</text>
+<rect x="503.77952755905517" y="0.0" width="120.94488188976379" height="37.795275590551185" stroke="red" fill="none" rx="10" ry="10"/>
+<line x1="651.724409448819" y1="2.0" x2="651.724409448819" y2="38.0" stroke="black" />
+<line x1="663.724409448819" y1="2.0" x2="663.724409448819" y2="38.0" stroke="black" />
+<line x1="639.724409448819" y1="14.0" x2="675.724409448819" y2="14.0" stroke="black" />
+<line x1="639.724409448819" y1="26.0" x2="675.724409448819" y2="26.0" stroke="black" />
+<circle cx="657.724409448819" cy="8.0" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<line x1="654.724409448819" y1="17.0" x2="660.724409448819" y2="23.0" stroke="black" stroke-width="2"/>
+<line x1="654.724409448819" y1="23.0" x2="660.724409448819" y2="17.0" stroke="black" stroke-width="2"/>
+<circle cx="690.1968503937009" cy="20.0" r="6.0" stroke="red" fill="none" stroke-width="2"/>
+<text x="700.724409448819" y="29.0" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">7</text>
+<rect x="629.724409448819" y="0.0" width="120.94488188976379" height="37.795275590551185" stroke="red" fill="none" rx="10" ry="10"/>
+<line x1="22.0" y1="44.795275590551185" x2="22.0" y2="80.79527559055119" stroke="black" />
+<line x1="34.0" y1="44.795275590551185" x2="34.0" y2="80.79527559055119" stroke="black" />
+<line x1="10.0" y1="56.795275590551185" x2="46.0" y2="56.795275590551185" stroke="black" />
+<line x1="10.0" y1="68.79527559055119" x2="46.0" y2="68.79527559055119" stroke="black" />
+<circle cx="28.0" cy="50.795275590551185" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<line x1="13.0" y1="59.795275590551185" x2="19.0" y2="65.79527559055119" stroke="black" stroke-width="2"/>
+<line x1="13.0" y1="65.79527559055119" x2="19.0" y2="59.795275590551185" stroke="black" stroke-width="2"/>
+<circle cx="60.472440944881896" cy="62.795275590551185" r="6.0" stroke="red" fill="none" stroke-width="2"/>
+<text x="71.0" y="71.79527559055119" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">8</text>
+<rect x="0.0" y="42.795275590551185" width="120.94488188976379" height="37.795275590551185" stroke="red" fill="none" rx="10" ry="10"/>
+<line x1="147.9448818897638" y1="44.795275590551185" x2="147.9448818897638" y2="80.79527559055119" stroke="black" />
+<line x1="159.9448818897638" y1="44.795275590551185" x2="159.9448818897638" y2="80.79527559055119" stroke="black" />
+<line x1="135.9448818897638" y1="56.795275590551185" x2="171.9448818897638" y2="56.795275590551185" stroke="black" />
+<line x1="135.9448818897638" y1="68.79527559055119" x2="171.9448818897638" y2="68.79527559055119" stroke="black" />
+<line x1="138.9448818897638" y1="47.795275590551185" x2="144.9448818897638" y2="53.795275590551185" stroke="black" stroke-width="2"/>
+<line x1="138.9448818897638" y1="53.795275590551185" x2="144.9448818897638" y2="47.795275590551185" stroke="black" stroke-width="2"/>
+<circle cx="153.9448818897638" cy="62.795275590551185" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="186.4173228346457" cy="62.795275590551185" r="6.0" stroke="red" fill="none" stroke-width="2"/>
+<text x="196.9448818897638" y="71.79527559055119" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">9</text>
+<rect x="125.94488188976379" y="42.795275590551185" width="120.94488188976379" height="37.795275590551185" stroke="red" fill="none" rx="10" ry="10"/>
+<line x1="273.8897637795276" y1="44.795275590551185" x2="273.8897637795276" y2="80.79527559055119" stroke="black" />
+<line x1="285.8897637795276" y1="44.795275590551185" x2="285.8897637795276" y2="80.79527559055119" stroke="black" />
+<line x1="261.8897637795276" y1="56.795275590551185" x2="297.8897637795276" y2="56.795275590551185" stroke="black" />
+<line x1="261.8897637795276" y1="68.79527559055119" x2="297.8897637795276" y2="68.79527559055119" stroke="black" />
+<line x1="264.8897637795276" y1="47.795275590551185" x2="270.8897637795276" y2="53.795275590551185" stroke="black" stroke-width="2"/>
+<line x1="264.8897637795276" y1="53.795275590551185" x2="270.8897637795276" y2="47.795275590551185" stroke="black" stroke-width="2"/>
+<circle cx="279.8897637795276" cy="50.795275590551185" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<circle cx="312.3622047244095" cy="62.795275590551185" r="6.0" stroke="red" fill="none" stroke-width="2"/>
+<text x="322.8897637795276" y="71.79527559055119" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">10</text>
+<rect x="251.88976377952758" y="42.795275590551185" width="120.94488188976379" height="37.795275590551185" stroke="red" fill="none" rx="10" ry="10"/>
+<line x1="399.8346456692914" y1="44.795275590551185" x2="399.8346456692914" y2="80.79527559055119" stroke="black" />
+<line x1="411.8346456692914" y1="44.795275590551185" x2="411.8346456692914" y2="80.79527559055119" stroke="black" />
+<line x1="387.8346456692914" y1="56.795275590551185" x2="423.8346456692914" y2="56.795275590551185" stroke="black" />
+<line x1="387.8346456692914" y1="68.79527559055119" x2="423.8346456692914" y2="68.79527559055119" stroke="black" />
+<circle cx="393.8346456692914" cy="50.795275590551185" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<line x1="402.8346456692914" y1="59.795275590551185" x2="408.8346456692914" y2="65.79527559055119" stroke="black" stroke-width="2"/>
+<line x1="402.8346456692914" y1="65.79527559055119" x2="408.8346456692914" y2="59.795275590551185" stroke="black" stroke-width="2"/>
+<circle cx="438.3070866141733" cy="62.795275590551185" r="6.0" stroke="red" fill="none" stroke-width="2"/>
+<text x="448.8346456692914" y="71.79527559055119" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">11</text>
+<rect x="377.8346456692914" y="42.795275590551185" width="120.94488188976379" height="37.795275590551185" stroke="red" fill="none" rx="10" ry="10"/>
+<line x1="525.7795275590552" y1="44.795275590551185" x2="525.7795275590552" y2="80.79527559055119" stroke="black" />
+<line x1="537.7795275590552" y1="44.795275590551185" x2="537.7795275590552" y2="80.79527559055119" stroke="black" />
+<line x1="513.7795275590552" y1="56.795275590551185" x2="549.7795275590552" y2="56.795275590551185" stroke="black" />
+<line x1="513.7795275590552" y1="68.79527559055119" x2="549.7795275590552" y2="68.79527559055119" stroke="black" />
+<circle cx="519.7795275590552" cy="50.795275590551185" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<line x1="540.7795275590552" y1="47.795275590551185" x2="546.7795275590552" y2="53.795275590551185" stroke="black" stroke-width="2"/>
+<line x1="540.7795275590552" y1="53.795275590551185" x2="546.7795275590552" y2="47.795275590551185" stroke="black" stroke-width="2"/>
+<circle cx="564.2519685039371" cy="62.795275590551185" r="6.0" stroke="red" fill="none" stroke-width="2"/>
+<text x="574.7795275590552" y="71.79527559055119" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">12</text>
+<rect x="503.77952755905517" y="42.795275590551185" width="120.94488188976379" height="37.795275590551185" stroke="red" fill="none" rx="10" ry="10"/>
+<line x1="651.724409448819" y1="44.795275590551185" x2="651.724409448819" y2="80.79527559055119" stroke="black" />
+<line x1="663.724409448819" y1="44.795275590551185" x2="663.724409448819" y2="80.79527559055119" stroke="black" />
+<line x1="639.724409448819" y1="56.795275590551185" x2="675.724409448819" y2="56.795275590551185" stroke="black" />
+<line x1="639.724409448819" y1="68.79527559055119" x2="675.724409448819" y2="68.79527559055119" stroke="black" />
+<circle cx="645.724409448819" cy="50.795275590551185" r="3.0" stroke="black" fill="none" stroke-width="2"/>
+<line x1="654.724409448819" y1="47.795275590551185" x2="660.724409448819" y2="53.795275590551185" stroke="black" stroke-width="2"/>
+<line x1="654.724409448819" y1="53.795275590551185" x2="660.724409448819" y2="47.795275590551185" stroke="black" stroke-width="2"/>
+<circle cx="690.1968503937009" cy="62.795275590551185" r="6.0" stroke="red" fill="none" stroke-width="2"/>
+<text x="700.724409448819" y="71.79527559055119" font-size="27" fill="black" font-family="Consolas, Courier New, monospace">13</text>
+<rect x="629.724409448819" y="42.795275590551185" width="120.94488188976379" height="37.795275590551185" stroke="red" fill="none" rx="10" ry="10"/>
+</svg>

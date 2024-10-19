@@ -8,8 +8,10 @@ This repository compile my implementation, you will find:
 - all the files to recreate the box
 - the web interface to help finding the correct box
 
-
-TODO end product photo
+<br>
+<center>
+<img src="media/menca_photo.png" alt="Image" width="300"/>
+</center>
 
 ## Video presentation
 TODO
