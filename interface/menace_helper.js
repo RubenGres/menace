@@ -189,7 +189,7 @@ function get_box_number(current_state) {
                 for (const [key, value] of Object.entries(boards)) {
                     
                     if(value.toString() == symmetry.toString()) {
-                        return [parseInt(key) + 1, value]
+                        return [parseInt(key), value]
                     }
                 }
             }
