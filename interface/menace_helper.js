@@ -24,15 +24,11 @@ let menace = document.getElementById("menace")
 
 let matchboxes = []
 
-fetch('all_states.json')
-    .then((response) => response.json())
-    .then((json) => {
 
-        all_states_dict = json;
+all_states_dict = JSON.parse(jsonString);
 
-        setup_menace();
-        setup_board();
-    });
+setup_menace();
+setup_board();
 
 function setup_board() {
     // add event listeners for each cell of the board
@@ -79,8 +75,13 @@ function setup_menace() {
         let row = document.createElement("tr")
         for(let j=0; j < 8; j++) {
             let menace_box = document.createElement("td")
+
             let menace_box_number = i*8+(j+1)
             menace_box.id = "menace_" + menace_box_number
+
+            menace_box.addEventListener('click', function() {
+                display_box_stats(menace_box_number)
+            });
             
             menace_box.innerHTML = menace_box_number
 
@@ -118,6 +119,10 @@ function cell_clicked(cell) {
         document.getElementById("next_box_hint").innerHTML = ""
         document.getElementById("next_box_hint").appendChild(state_grid)
     }
+
+    if(current_player == "O") {    
+        update_game(current_state);
+    }
 }
 
 function create_box_hint(next_box_state) {
@@ -144,7 +149,6 @@ function create_box_hint(next_box_state) {
 
     return table;
 }
-
 
 function display_board() {
     for(let i = 0; i < 9; i++) {
@@ -188,7 +192,7 @@ function get_box_number(current_state) {
                 for (const [key, value] of Object.entries(boards)) {
                     
                     if(value.toString() == symmetry.toString()) {
-                        return [parseInt(key) + 1, value]
+                        return [parseInt(key), value]
                     }
                 }
             }

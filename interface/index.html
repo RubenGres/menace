@@ -3,46 +3,71 @@
 <html>
     <head>
         <link href="style.css" rel="stylesheet">
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     </head>
     
     <body>
-          
-        <div class="board_section">
-            <div class="board_wrapper">
-                <table id="input_board">
-                    <tr>
-                        <td></td> <td></td> <td></td>
-                    </tr>
-                    <tr>
-                        <td></td> <td></td> <td></td>
-                    </tr>
-                    <tr>
-                        <td></td> <td></td> <td></td>
-                    </tr>
+        <div class="page_content">
+            <div class="board_section">
+                <div class="board_wrapper">
+                    <table id="input_board">
+                        <tr>
+                            <td class="case_1"></td> <td class="case_2"></td> <td class="case_3"></td>
+                        </tr>
+                        <tr>
+                            <td class="case_4"></td> <td class="case_5"></td> <td class="case_6"></td>
+                        </tr>
+                        <tr>
+                            <td class="case_7"></td> <td class="case_8"></td> <td class="case_9"></td>
+                        </tr>
+                    </table>
+                </div>
+                
+                <h2>Boite suivante:</h2>
+                <div class="box_info">
+                    <table id="next_box">
+                        <tr>
+                            <td id="next_box_hint">
+                                <table><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>
+                            </td>
+    
+                            <td id="next_box_number">1</td>
+                        </tr>
+                    </table>
+                </div>
+    
+                <div class="button_area">
+                    <button onclick="reset()">Reset</button>
+                    <button onclick="save_game()">Save</button>
+                </div>
+            </div>
+    
+            <div class="menace_section">
+                <table id="menace">
                 </table>
             </div>
-            
-            <h2>Boite suivante:</h2>
-            <div class="box_info">
-                <table id="next_box">
-                    <tr>
-                        <td id="next_box_hint">
-                            <table><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>
-                        </td>
-
-                        <td id="next_box_number">1</td>
-                    </tr>
-                </table>
+    
+            <div class="display_backdrop" id="displayBackdrop">
+                <div class="statsModal">
+                    <div class="modal-header">
+                        <h2 id="modal_title">Box ?? statistics</h2>
+                        <button id="closeModal" class="close-button">&times;</button>
+                    </div>
+                    <div class="figures">
+                        <div class="figure nbBeadsDisplay">
+                            <canvas id="lineChart"></canvas>
+                        </div>
+                        <div class="figure donutDisplay">
+                            <canvas id="donutChart"></canvas>
+                        </div>
+                    </div>
+                </div>
             </div>
-
-            <button onclick="reset()">Reset</button>
-        </div>
-
-        <div class="menace_section">
-            <table id="menace">
-            </table>
-        </div>
+        </div>        
     </body>
     
+    <script src="all_states.js"></script>
     <script src="menace_helper.js"></script>
+    <script src="save_state.js"></script>
+    <script src="figures.js"></script>
 </html>
