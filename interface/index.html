@@ -1,73 +1,106 @@
 <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MENACE Game</title>
+    <link href="style.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
 
-<html>
-    <head>
-        <link href="style.css" rel="stylesheet">
-        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    </head>
-    
-    <body>
-        <div class="page_content">
-            <div class="board_section">
-                <div class="board_wrapper">
-                    <table id="input_board">
-                        <tr>
-                            <td class="case_1"></td> <td class="case_2"></td> <td class="case_3"></td>
-                        </tr>
-                        <tr>
-                            <td class="case_4"></td> <td class="case_5"></td> <td class="case_6"></td>
-                        </tr>
-                        <tr>
-                            <td class="case_7"></td> <td class="case_8"></td> <td class="case_9"></td>
-                        </tr>
-                    </table>
-                </div>
-                
-                <h2>Boite suivante:</h2>
+<body>
+    <header>
+        <h1>MENACE - Find your box</h1>
+    </header>
+
+    <div class="page_content">
+        <div class="board_section">
+            <div class="board_wrapper">
+                <table id="input_board">
+                    <tr>
+                        <td class="case_1"></td> <td class="case_2"></td> <td class="case_3"></td>
+                    </tr>
+                    <tr>
+                        <td class="case_4"></td> <td class="case_5"></td> <td class="case_6"></td>
+                    </tr>
+                    <tr>
+                        <td class="case_7"></td> <td class="case_8"></td> <td class="case_9"></td>
+                    </tr>
+                </table>
+            </div>
+            
+            <div class="next_box_container">
+                <h2>Next Box:</h2>
                 <div class="box_info">
                     <table id="next_box">
                         <tr>
                             <td id="next_box_hint">
-                                <table><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>
+                                <table>
+                                    <tr><td></td><td></td><td></td></tr>
+                                    <tr><td></td><td></td><td></td></tr>
+                                    <tr><td></td><td></td><td></td></tr>
+                                </table>
                             </td>
-    
                             <td id="next_box_number">1</td>
                         </tr>
                     </table>
                 </div>
-    
-                <div class="button_area">
-                    <button onclick="reset()">Reset</button>
-                    <button onclick="save_game()">Save</button>
+            </div>
+
+            <div class="button_area">
+                <button class="game-btn reset-btn" onclick="reset()">
+                    <i class="fas fa-sync-alt"></i> Reset
+                </button>
+                <!-- <button class="game-btn save-btn" onclick="save_game()">
+                    <i class="fas fa-save"></i> Save
+                </button> -->
+            </div>
+
+            <!-- Toggle button for mobile -->
+            <div class="toggle_menace">
+                <button id="toggle_menace_btn" class="game-btn" onclick="toggleMenace()">
+                    <i class="fas fa-table"></i> Toggle MENACE Table
+                </button>
+            </div>
+        </div>
+
+        <div class="menace_section" id="menace_section">
+            <h2>MENACE Box overview</h2>
+            <div class="menace_container">
+                <table id="menace"></table>
+            </div>
+        </div>
+    </div>
+
+    <div class="display_backdrop" id="displayBackdrop">
+        <div class="statsModal">
+            <div class="modal-header">
+                <h2 id="modal_title">Box Statistics</h2>
+                <button id="closeModal" class="close-button">&times;</button>
+            </div>
+            <div class="figures">
+                <div class="figure nbBeadsDisplay">
+                    <canvas id="lineChart"></canvas>
+                </div>
+                <div class="figure donutDisplay">
+                    <canvas id="donutChart"></canvas>
                 </div>
             </div>
-    
-            <div class="menace_section">
-                <table id="menace">
-                </table>
-            </div>
-    
-            <div class="display_backdrop" id="displayBackdrop">
-                <div class="statsModal">
-                    <div class="modal-header">
-                        <h2 id="modal_title">Box ?? statistics</h2>
-                        <button id="closeModal" class="close-button">&times;</button>
-                    </div>
-                    <div class="figures">
-                        <div class="figure nbBeadsDisplay">
-                            <canvas id="lineChart"></canvas>
-                        </div>
-                        <div class="figure donutDisplay">
-                            <canvas id="donutChart"></canvas>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>        
-    </body>
-    
+        </div>
+    </div>
+
     <script src="all_states.js"></script>
     <script src="menace_helper.js"></script>
     <script src="save_state.js"></script>
     <script src="figures.js"></script>
+    <script>
+        // Toggle function for showing/hiding MENACE table on mobile
+        function toggleMenace() {
+            const menaceSection = document.getElementById('menace_section');
+            menaceSection.classList.toggle('active');
+        }
+    </script>
+</body>
 </html>
